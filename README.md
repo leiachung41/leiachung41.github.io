@@ -5,6 +5,7 @@ Part 1 is projects from udacity front end nanodegreee program.
 Part 2 is practice myself while self study from online sources.
 
 ## Part 1
+
 - Mockup to Article
 - Animal Trading Cards
 - Build a Portfolio Site
@@ -15,6 +16,7 @@ Part 2 is practice myself while self study from online sources.
 - Feed Reader Testing
 
 ## Part 2
+
 - Cat Clicker
 
 - Pinterest style layout, masonry
