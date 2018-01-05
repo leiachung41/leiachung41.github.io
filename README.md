@@ -1,8 +1,10 @@
 # pre_Portfolio
 
-\This portfolio has 2 part.
-\Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**.
-\Part 2 is practice myself while self study from online sources.
+This portfolio has 2 part.
+
+Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**.
+
+Part 2 is practice myself while self study from online sources.
 
 ## Part 1
 - Mockup to Article : Put your HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
