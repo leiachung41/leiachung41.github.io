@@ -7,6 +7,7 @@ Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**.
 Part 2 is practice myself while self study from online sources.
 
 ## Part 1
+
 - Mockup to Article : Put my HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
 
 - Animal Trading Cards : Use my knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
@@ -20,8 +21,10 @@ Part 2 is practice myself while self study from online sources.
 - need to be edit ↑
 
 - Website Oprimization : I will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.
-- Neighbourhood Map :
-- Feed Reader Testing :
+
+- Neighbourhood Map : I will develop a single-page application featuring a map of my neighbourhood or a neighbourhood I would like to visit.
+
+- Feed Reader Testing : In this project I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I will complete and test the suite using jasmine as a behavior-driven development framework.
 
 ## Part 2
 
