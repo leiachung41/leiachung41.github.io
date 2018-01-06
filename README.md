@@ -7,9 +7,9 @@ Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**.
 Part 2 is practice myself while self study from online sources.
 
 ## Part 1
-- Mockup to Article : Put your HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
+- Mockup to Article : Put my HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
 
-- Animal Trading Cards : Use your knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
+- Animal Trading Cards : Use my knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
 
 - Build a Portfolio Site : Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
 
@@ -17,7 +17,9 @@ Part 2 is practice myself while self study from online sources.
 
 - Classic Arcade Game Clone : You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
-- Website Oprimization : 
+- need to be edit ↑
+
+- Website Oprimization : I will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.
 - Neighbourhood Map :
 - Feed Reader Testing :
 
