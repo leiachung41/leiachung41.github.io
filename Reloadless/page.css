@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-image: url(https://source.unsplash.com/category/nature/1600x900);
+	background-size: cover;
+	min-height: 100vh;
+	margin: 0;
+	font-family: 'Covered By Your Grace', cursive;
+}
+article {
+	background-color: rgba(255, 255, 255, 0.4);
+	color: black;
+	max-width: 20rem;
+	position: fixed;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 1.3rem;
+	padding: 0.7rem;
+}
+.control {
+	background-color: rgba(0, 0, 0, 0.47);
+	color: white;
+	padding: 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.control ul {
+	list-style: none;
+}
+.control li {
+	display: inline-block;
+	padding: 0 1rem;
+}
+.control a {
+	color: white;
+	text-decoration: none;
+}
+.control>* {
+	display: inline-block;
+}
+.control .player {
+	position: absolute;
+	right: 1rem;
+}
+.control .player a {
+	font-size: 1.3rem;
+}
+.control .player a:hover {
+	color: #333333;
+}
+.control .player a>span {
+	display: none;
+}
