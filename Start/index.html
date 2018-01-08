@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>thestar.com</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight:400,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="responsive.css">
+</head>
+<body>
+
+    <header class="header" id="header">
+        <div class="header__inner">
+            <a id="menu" class="header__menu">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M2 6h20v3H2zm0 5h20v3H2zm0 5h20v3H2z"/>
+                </svg>
+            </a>
+
+            <h1 class="header__title">
+                thestar.com
+            </h1>
+        </div>
+    </header>
+
+    <nav id="drawer" class="nav">
+        <ul class="nav__list">
+            <li class="nav__item"><a href="#header">Home</a></li>
+            <li class="nav__item"><a href="#top">Top News</a></li>
+            <li class="nav__item"><a href="#latest">Latest News</a></li>
+            <li class="nav__item"><a href="#sports">Sports</a></li>
+            <li class="nav__item"><a href="#weather">Weather</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="content">
+            <section class="hero">
+                <article class="description">
+                    <h2><a href="https://www.thestar.com/news/world/2017/08/23/trump-well-end-up-probably-terminating-nafta.html">Trump: ‘We’ll end up probably terminating NAFTA’</a></h2>
+                    <p>"Personally, I don’t think we can make a deal," the U.S. President told a campaign-style rally in Arizona. "Because we have been so badly taken advantage of. They have made such great deals — both of the countries, but in particular Mexico — that I don’t think we can make a deal."</p>
+                </article>
+            </section>
+
+            <section class="news top-news" id="top">
+                <h2 class="news__title">Top news <a href="https://www.thestar.com/" class="news__more">+ more</a></h2>
+                <ul>
+                    <li class="top-news__item">
+                        <a href="https://www.thestar.com/news/crime/2017/08/23/hamilton-judge-who-wore-trump-hat-in-court-admits-he-committed-misconduct.html">Judge who wore Trump hat in court admits misconduct: 'Profound regret for what I did that day'</a>
+                    </li>
+                    <li class="top-news__item">
+                        <a href="https://www.thestar.com/news/gta/2017/08/23/students-left-to-scramble-after-islamic-high-school-shuts-down.html">Students left to scramble after Islamic high school shuts down</a>
+                    </li>
+                    <li class="top-news__item">
+                        <a href="https://www.thestar.com/news/crime/2017/08/23/multiple-garbage-fires-set-downtown-church-of-the-holy-trinity-doors-damaged.html">Multiple garbage fires set downtown, Church of the Holy Trinity doors damaged</a>
+                    </li>
+                    <li class="top-news__item">
+                        <a href="https://www.thestar.com/news/gta/2017/08/22/toronto-psychiatrist-stripped-of-licence-for-romantic-relationship-with-patient.html">Toronto psychiatrist stripped of licence for romantic relationship with patient</a>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="scores" id="sports">
+                <h2 class="news__title"><img src="./images/jays.svg" alt=""> Toronto Blue Jays<a href="https://www.mlb.com/bluejays" class="news__more">+ official</a></h2>
+                <table class="scores__table">
+                    <thead>
+                        <tr>
+                            <th>date</th>
+                            <th>time</th>
+                            <th>location</th>
+                            <th>opponent</th>
+                            <th colspan="3">details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>sat 19</td>
+                            <td>final</td>
+                            <td>away</td>
+                            <td>chicago cubs</td>
+                            <td>l</td>
+                            <td>3</td>
+                            <td class="winner">4</td>
+                        </tr>
+                        <tr>
+                            <td>sun 20</td>
+                            <td>final</td>
+                            <td>away</td>
+                            <td>chicago cubs</td>
+                            <td>l</td>
+                            <td>5</td>
+                            <td class="winner">6</td>
+                        </tr>
+                        <tr>
+                            <td>tue 22</td>
+                            <td>final</td>
+                            <td>away</td>
+                            <td>tampa bay</td>
+                            <td>l</td>
+                            <td>5</td>
+                            <td class="winner">6</td>
+                        </tr>
+                        <tr>
+                            <td>tue 23</td>
+                            <td>7:10 pm</td>
+                            <td>away</td>
+                            <td>tampa bay</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>tue 24</td>
+                            <td>1:10 pm</td>
+                            <td>away</td>
+                            <td>tampa bay</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section class="weather" id="weather">
+                <span class="weather__location">Toronto, ON</span>
+                <span class="weather__desc">Partly Cloudy</span>
+                <span class="weather__today">
+                    <img class="weather__today__image" src="images/part_cl.png" alt="icon of a partially cloudy day"><span class="weather__today__temp">23</span><span class="weather__today__deg">&deg;C</span>
+                </span>
+                <ul class="weather__next">
+                    <li class="weather__next__item">
+                        <span>Wed</span>
+                        <img class="weather__next__image" src="images/part_cl.png" alt="icon of a partially cloudy day">
+                        <span>23 &deg;C</span><span>12 &deg;C</span>
+                    </li>
+                    <li class="weather__next__item">
+                        <span>Thu</span>
+                        <img class="weather__next__image" src="images/part_cl.png" alt="icon of a partially cloudy day">
+                        <span>19 &deg;C</span><span>12 &deg;C</span>
+                    </li>
+                    <li class="weather__next__item">
+                        <span>Fri</span>
+                        <img class="weather__next__image" src="images/part_cl.png" alt="icon of a partially cloudy day">
+                        <span>22 &deg;C</span><span>12 &deg;C</span>
+                    </li>
+                    <li class="weather__next__item">
+                        <span>Sat</span>
+                        <img class="weather__next__image" src="images/part_cl.png" alt="icon of a partially cloudy day">
+                        <span>22 &deg;C</span><span>13 &deg;C</span>
+                    </li>
+                    <li class="weather__next__item">
+                        <span>Sun</span>
+                        <img class="weather__next__image" src="images/sunn.png" alt="icon of a sunny day">
+                        <span>22 &deg;C</span><span>14 &deg;C</span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="news recent-news" id="latest">
+                <h2 class="news__title">Latest news <a href="https://www.thestar.com/news.html" class="news__more">+ more</a></h2>
+                <ul>
+                    <li class="snippet">
+                        <img class="snippet__thumbnail" src="images/mosquito.jpg" alt="picture of a mosquito">
+                        <h3 class="snippet__title"><a href="https://www.thestar.com/news/canada/2017/08/23/mosquito-species-capable-of-carrying-zika-virus-found-in-ontario.html">Mosquito species capable of carrying Zika virus found in Ontario</a></h3>
+                        <p>The Windor-Essex County Health Unit says one of their mosquito traps recently caught an adult Aedes aegypti mosquito, which can carry the Zika virus.</p>
+                    </li>
+                    <li class="snippet">
+                        <img class="snippet__thumbnail" src="images/asylum-seekrs2.jpg" alt="picture of a asylum-seekrs">
+                        <h3 class="snippet__title"><a href="https://www.thestar.com/news/canada/2017/08/23/cornwall-politicians-assured-about-asylum-seekers-after-meeting-with-goodale.html">Cornwall politicians assured about asylum-seekers after meeting with Goodale</a></h3>
+                        <p>One councillor said the meeting with the federal public safety minister made local leaders “feel more comfortable” with the process.</p>
+                    </li>
+                    <li class="snippet">
+                        <img class="snippet__thumbnail" src="images/iyes2.jpg" alt="picture of a iyes">
+                        <h3 class="snippet__title"><a href="https://www.thestar.com/news/canada/2017/08/23/first-nations-volunteers-find-empowerment-in-nicaragua.html">First Nations volunteers find empowerment in Nicaragua</a></h3>
+                        <p>Five travelled to Central America recently to help build a classroom and educate children about their cultures.</p>
+                    </li>
+                    <li class="snippet">
+                        <img class="snippet__thumbnail" src="images/trump.jpg" alt="picture of trump">
+                        <h3 class="snippet__title"><a href="https://www.thestar.com/news/world/2017/08/23/trumps-science-envoy-quits-with-scathing-letter-and-a-hidden-message-i-m-p-e-a-c-h.html">Trump’s science envoy quits with scathing letter and a hidden message: ‘I-M-P-E-A-C-H’</a></h3>
+                        <p>Daniel Kammen, a renewable energy expert appointed last year as a science envoy to the State Department, wrote that Trump’s remarks about the racial violence in Virginia had attacked “core values of the United States.”</p>
+                    </li>
+                </ul>
+            </section>
+        </section>
+        <footer>
+            <ul>
+                <li><a href="https://www.thestar.com/about/aboutus.html">About</a></li>
+                <li><a href="https://www.thestar.com/about/feedback.html">Feedback</a></li>
+                <li><a href="https://www.thestar.com/about/contactus.html">Contact us</a></li>
+                <li><a href="https://www.thestar.com/about/faq.html">FAQ</a></li>
+                <li><a href="https://www.thestar.com/about/privacy.html">Privacy Policy</a></li>
+                <li><a href="https://www.thestar.com/about/terms.html">Terms &amp; Conditions</a></li>
+            </ul>
+        </footer>
+    </main>
+    <script>
+      /*
+       * Open the drawer when the menu ison is clicked.
+       */
+      var menu = document.querySelector('#menu');
+      var main = document.querySelector('main');
+      var drawer = document.querySelector('.nav');
+
+      menu.addEventListener('click', function(e) {
+        drawer.classList.toggle('open');
+        e.stopPropagation();
+      });
+      main.addEventListener('click', function() {
+        drawer.classList.remove('open');
+      });
+
+    </script>
+</body>
+</html>
