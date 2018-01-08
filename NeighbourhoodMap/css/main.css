@@ -1,0 +1,124 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+  height: 100%;
+  color: #fbf0ea;
+  position: relative;
+}
+
+.listview {
+  height: 100%;
+  width: 200px;
+  background-color: #150a04;
+}
+.menu {
+  left: 200px;
+	position: absolute;
+	z-index: 5;
+	transition: all .3s ease;
+}
+
+#icon {
+	padding: 3px 6px;
+	width: 40px;
+	height: 40px;
+	z-index: 5;
+  fill: #150a04;
+}
+
+h1 {
+  margin: 0;
+  padding: 15px 20px;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #e9b195;
+}
+
+a {
+  color: #150a04;
+  text-decoration: none;
+}
+
+#location-search {
+  position: relative;
+  width: 255px;
+  padding: 15px 0 15px 45px;
+  font-size: 1.2rem;
+  border: none;
+  background: white url('magnifying-glass.png') 10px 14px no-repeat;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#location-search:focus {
+  outline: none;
+}
+
+#location-list {
+  margin: 0;
+  padding: 0;
+  color: #fbf0ea;
+  font-size: 1.2em;
+  list-style: none;
+  text-decoration: none;
+}
+
+#location-list li {
+  display: block;
+  padding: 15px;
+}
+
+#location-list li:hover {
+  color: #150a04;
+  background-color: #f2d1c0;
+}
+
+h3 {
+	position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+	z-index: 5;
+}
+
+#map {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  bottom: 0px;
+  left: 200px;
+  right: 0px;
+  transform: translate(0,0);
+  transition: all .3s ease;
+}
+
+.infowindow {
+  margin: 0;
+  padding: 0;
+}
+.infowindow h2 {
+  margin: 0;
+  padding: 5px;
+  border-bottom: dotted 1px;
+}
+
+.infowindow ul {
+  margin: 0;
+  padding: 5px;
+}
+
+.infowindow ul .info-li {
+  margin: 0;
+  padding: 1px 5px;
+  font-size: 1.1em;
+  list-style: none;
+}
+.infowindow ul .info-a {
+  color: black;
+}

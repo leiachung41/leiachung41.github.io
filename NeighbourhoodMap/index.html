@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Toronto Neighbourhood</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="listview">
+        <div class="menu">
+          <svg id="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M2 6h20v3H2zm0 5h20v3H2zm0 5h20v3H2z"/>
+          </svg>
+        </div>
+        <h1><a href="index.html">Toronto Neighbourhood</a></h1>
+        <input id="location-search" type="text" placeholder="Search a location .." data-bind = "value: userInput, valueUpdate: 'keyup'">
+        <ul id="location-list" data-bind="foreach: filteredList">
+          <li class="list-item" data-bind="text: name, click: $parent.locationClicked"></li>
+        </ul>
+      </div>
+    </div>
+    <div id="map"></div>
+
+    <script src="js/app.js"></script>
+    <script src="js/lib/jQuery.js"></script>
+    <script>
+      $(document).ready(function(){
+        var menu = 'open';
+
+        $('#icon').on('click', function () {
+          function openMenu() {
+            $('#map').css('left','200px');
+            $('.menu').css('left','200px');
+            menu = 'open';
+          }
+          function closeMenu () {
+            $('#map').css('left','0px');
+            $('.menu').css('left','0px');
+            menu = 'close';
+          }
+          if (menu == 'close') {
+            openMenu();
+          } else {
+            closeMenu();
+          }
+        });
+      });
+    </script>
+    <script src="js/lib/knockout-3.4.2.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQAja5NfsSlvhiB4rH_ySC9f3MD6NKv8Y&callback=initMap" onerror="googlemapError()"></script>
+  </body>
+</html>
