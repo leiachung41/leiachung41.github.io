@@ -1,0 +1,29 @@
+{
+	"name": "build_a_portfolio_site",
+	"devDependencies": {
+		"grunt": "^1.0.1",
+		"grunt-responsive-images": "^1.10.1",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-contrib-nodeunit": "~0.4.1",
+		"grunt-contrib-uglify": "~0.5.0",
+		"grunt-responsive-images": "^0.1.4"
+	},
+	"dependencies": {
+		"grunt-responsive-images": "^0.1.6"
+	},
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/leachung41/frontendnd.git"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "lea",
+	"license": "ISC",
+	"description": "build a portfolio site",
+	"keywords": [
+		"portfolio"
+	]
+}
