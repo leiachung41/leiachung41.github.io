@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+		.thumbnail {
+			width: 200px;
+			height: 200px;
+			margin: 10px;
+			float: left;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			border: 2px solid #bc6f15;
+		}
+		.thumbnail.second {
+			background-size: contain;
+			background-color: #ffba00;
+		}
+		.thumbnail.round {
+			border-radius: 20px;
+		}
+		.thumbnail.circle {
+			border-radius: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div class="thumbnail" style="background-image:url('image/giraffe.jpg')">			
+	</div>
+	<div class="thumbnail second" style="background-image:url('image/giraffe.jpg')">			
+	</div>
+	<div class="thumbnail round" style="background-image:url('image/giraffe.jpg')">			
+	</div>
+	<div class="thumbnail circle" style="background-image:url('image/giraffe.jpg')">			
+	</div>
+	<img src="image/giraffe.jpg" alt="giraffe">
+</body>
+</html>
