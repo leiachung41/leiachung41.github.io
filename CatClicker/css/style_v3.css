@@ -1,0 +1,59 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* <div id="main" class="container"> */
+h3 {
+    margin: 10px;
+}
+/* <div class="header"> */
+.header {
+    margin: 10px;
+}
+/* <div class="col-md-12 title"> */
+.title {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px dotted gray;
+    margin-bottom: 30px;
+}
+/* <div class="row contents"> */
+.contents {
+    text-align: center;
+}
+/* <div class="col-md-5 name"> */
+.name {
+    margin-left: 10px;
+}
+/* <div id="list"></div> */
+.list {
+    list-style: none;
+    font-size: 1.5em;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+li .btn {
+    padding: 10px;
+    margin: 5px;
+    width: 120px;
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+li .btn:hover {
+    background-color: #008CBA;
+    color: white;
+}
+/* <div class="col-md-6 detail">*/
+.detail {
+    margin-top: 15px;
+    margin-left: 30px;
+    padding: 0;
+}
+img {
+    margin-bottom: 20px;
+    height: 240px;
+}

@@ -1,0 +1,50 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== header ===== */
+.header {
+    margin-top: 10px;
+}
+.title {
+    padding: 10px;
+    border: 2px dotted gray;
+}
+
+/* ===== contents ===== */
+/* ===== name ===== */
+.name {
+    margin-top: 10px;
+}
+#catList {
+    list-style: none;
+    font-size: 1.2em;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+li {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    border: 2px solid #008CBA;
+}
+li:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+/* ===== detail ===== */
+.detail {
+    margin-top: 20px;
+}
+img {
+    height: 300px;
+}
+h4 {
+    padding-left: 10px;
+}

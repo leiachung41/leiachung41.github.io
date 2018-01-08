@@ -1,0 +1,26 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    margin: 10px;
+
+}
+.title {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px dotted gray;
+    margin-bottom: 10px;
+}
+.main {
+    text-align: center;
+}
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 360px;
+    height: 240px;
+}

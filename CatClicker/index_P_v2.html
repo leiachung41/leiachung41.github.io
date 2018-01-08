@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = "utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Cat Clicker Premium v.2</title>
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style_P_v2.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row contents">
+        <div class="col-md-6 list">
+            <h3><a href="index_P_v2.html">
+                <span class="title">Cat Clicker Premium v.2</span></a></h3>
+            <h4 class="question">Which cat do you like?</h4>
+            <div id="catList"></div>
+        </div>
+        <div class="col-md-6 view">
+            <div id="display">
+                <div id="cat">
+                    <img id="catImage">
+                    <div id="catName"></div>
+                    <div id="catCount"></div>
+                </div>
+            </div>
+            <input id="admin" type="button" value="Admin">
+            <div id="adminArea">
+                <form id="form">
+                    <p>Name: <input id="adminName" type="text" name="adminCatName"></p>
+                    <p>Url: <input id="adminUrl" type="text" name="adminCatUrl"></p>
+                    <p>Clicks: <input id="adminClicks" type="text" name="adminCatCount"></p>
+                </form>
+                <input id="save" type="button" value="Save">
+                <input id="cancel" type="button" value="Cancel">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="js/app_P_v2.js"></script>
+</body>
+</html>

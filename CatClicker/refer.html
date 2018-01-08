@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cat Clicker</title>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <style>
+        * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        }
+
+        .container {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        }
+
+        .clearfix:after {
+        clear: both;
+        }
+
+        body {
+        font-family: 'Lato', sans-serif;
+        }
+
+        .inline {
+        display: inline-block;
+        }
+
+        #img {
+        height: 500px;
+        margin: 50px;
+        float: left;
+        }
+
+        a:hover {
+        cursor: pointer;
+        }
+
+        img {
+        height: 500px;
+        margin: auto;
+        }
+
+        #count-div {
+        float: right;
+        height: 500px;
+        width: 500px;
+        }
+
+        #count {
+        margin: 50px;
+        float: left;
+        position: center;
+        }
+
+        p {
+        font-size: 100px;
+        position: center;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+	<div class="inline" id="img">
+		<a><img src="https://s-media-cache-ak0.pinimg.com/736x/4c/a2/c1/4ca2c1d3ef5042461f5def25e68b2fa5.jpg"/></a>
+	</div>
+	<div class="inline" id="count-div">
+		<div id="count">
+            Number of Clicks:
+			<!-- <p style="font-size: 40px">Number of Clicks:</p> -->
+		</div>
+	</div>
+</div>
+<script>
+    $(document).ready(function() {
+        var counter = 0;
+            $("#count").append("<span id='clicks'>" + counter.toString() + "</span>");
+        // $("#count").append("<p id='clicks'>" + counter.toString() + "</p>");
+        $("#img").click(function() {
+            counter += 1;
+            $("#clicks").text(counter.toString());
+            // $("#clicks").text(counter.toString());
+        });
+    });
+</script>
+</body>
+</html>
