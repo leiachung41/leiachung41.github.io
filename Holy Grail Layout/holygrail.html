@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+		.container {
+			border: 5px solid black;
+		}
+		.container>* {
+			border: 5px solid red;
+		}
+		.container>.content>* {
+			border: 5px solid green;
+		}
+		.container .content{
+		  padding-left:200px;
+		  padding-right:150px;
+		  overflow: hidden;
+		}
+		.container .content>*{
+		  float:left;
+		  padding-bottom:2500px;
+		  margin-bottom:-2500px;
+		}
+		.container .content main{
+		  width:100%;
+		}
+		.container .content nav{
+		  width:200px;
+		  margin-left: -100%;
+		  left:-200px;
+		  position: relative;
+		}
+		.container .content aside{
+		  width:150px;
+		  margin-right:-150px; 
+		}
+		.container footer{
+		  clear: both;
+		}
+		@media (max-width:599px) {
+			.container .content {
+				padding-left: 0;
+				padding-right: 0;
+				overflow: visible;
+			}
+			.container .content>* {
+				float: none;
+				padding-bottom: 0;
+				margin-bottom: 0;
+			}
+			.container .content main {
+				width: 100%;
+			}
+			.container .content nav {
+				width: auto;
+				margin-left: 0;
+				left: 0;
+				position: relative;
+			}
+			.container .content aside {
+				width: auto;
+				margin-right: 0;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<header>
+			<h1>HEADER</h1>
+		</header>
+		<section class="content">
+			<main>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ex ipsa voluptas molestiae excepturi unde temporibus eligendi debitis distinctio, dolor perspiciatis veniam deserunt molestias. Quo facilis in cum excepturi sit, autem esse libero veritatis nemo, obcaecati voluptas assumenda repellat ullam quod consequatur. Quam odit iusto corporis aperiam nam hic id impedit aliquam cum assumenda eligendi delectus ullam sed cupiditate mollitia eos sapiente consequatur illo commodi, quod doloremque molestias quibusdam corrupti quis! Cupiditate deleniti perspiciatis, odit obcaecati officia, sit esse culpa excepturi adipisci odio. Cupiditate, at, maiores. Veniam officiis fugit nobis quidem dolore ad ex, inventore, sapiente eius, culpa autem voluptatem.
+			</main>
+			<nav>
+				<ul>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+					<li>item</li>
+				</ul>
+			</nav>
+			<aside>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero vitae vero rerum inventore consectetur labore asperiores fugiat veniam optio sapiente!
+			</aside>
+		</section>
+		<footer>
+			FOOTER
+		</footer>
+	</div>
+</body>
+</html>
