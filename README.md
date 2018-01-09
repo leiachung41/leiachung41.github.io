@@ -29,16 +29,17 @@ Part 2 is practice myself while self study from online sources.
 ## Part 2
 
 - Cat Clicker
-
-- Pinterest style layout, masonry
-- Make tree without JavaScript
-- Make buttons using a tag
+- Find your Future home
+- Building the Hometown App
+- Todo App
+- Mansonry Layout
+- Tree View
+- Link Button
 - Holy Grail Layout
 - Thumbnail
+- Templated Visualize
 - Parallx
-- mojs
-- Change URL without re-loading
+- Random Background Image
+- Mojs
+- Reloadless
 
-- CKeditor
-- disqus
-- Random image maker
