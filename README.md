@@ -29,7 +29,7 @@ Part 2 is practice myself while self study from online sources.
 ## Part 2
 
 - Cat Clicker
-- Find your Future home
+- Find your Future Home
 - Building the Hometown App
 - Todo App
 - Mansonry Layout
