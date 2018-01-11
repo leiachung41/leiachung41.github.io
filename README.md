@@ -8,7 +8,12 @@ Part 2 is practice myself while self study from online sources.
 
 ## Part 1
 
-- [Mockup to Article] : Put my HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
+#### Mockup to Article
+- title: Mockup to Article
+- source file: folder named Article_to_Mockup
+- description: Put my HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
+- key points: 
+
 
 - Animal Trading Cards : Use my knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
 
