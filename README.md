@@ -9,7 +9,7 @@ Part 2 is practice myself while self study from online sources.
 ## Part 1
 
 #### Mockup to Article
-- link: [Mockup to Article](#)
+- link: [Mockup to Article](https://leiachung41.github.io/prePF/Mockup_to_Article/index.html)
 - source file: folder named Mockup_to_Article
 - description: Put my HTML skills to use by converting a designer's mockup of a blog article into a real webpage!
 - key points: HTML
