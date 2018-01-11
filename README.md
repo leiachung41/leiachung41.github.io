@@ -12,7 +12,8 @@ Part 2 is practice myself while self study from online sources.
 - Description: I converted a designer's [mockup](https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf) of a blog [article](https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html) into a real webpage using my HTML skills. 
 - Key points: HTML
 - Link: [Mockup to Article](https://leiachung41.github.io/prePF/Mockup_to_Article/index.html){:target="_blank"}
-- Github folder: [prePF/Mockup_to_Article/](https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article){:target="_blank"}
+- Github folder: [prePF/Mockup_to_Article/](https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article)
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article" target="_blank">prePF/Mockup_to_Article/</a>
 
 
 #### Animal Trading Cards
