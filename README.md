@@ -81,7 +81,7 @@ This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web D
 #### Mansonry Layout
 - Description:
 - Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank"></a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank">Mansonry Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
 
 #### Tree View
