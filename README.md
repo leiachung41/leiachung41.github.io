@@ -4,8 +4,8 @@ This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web D
 
 ## Part 1
 
-#### Translating a mockup to HTML
-- Description: I'm given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a raw <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
+#### Mockup to Article
+- Description: This project is translating a mockup to HTML. I'm given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a raw <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
 file (a copy of the text in it). I'm going to recreate it with HTML.
 - Key points: HTML
 - Final Result: <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/index.html" target="_blank">Mockup to Article</a>
