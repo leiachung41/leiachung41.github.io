@@ -10,10 +10,10 @@ Review the Article to Mockup <a href="https://review.udacity.com/#!/rubrics/145/
 2. Use what you've learned about web development so far to edit `index.html` so that it looks exactly like the mockup image. You will need to use new elements, which means that you'll need to <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">research</a> and experiment! (Hint: look up "superscript," "horizontal rule," and "strikethrough."). Note: You can recreate the mockup without using a single `<br>` tag! You don't need to worry about line breaks. The text should naturally wrap depending on how wide the window is.
 3. When you've finished building the article, open up` reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
   
-     3.1 What new skills have you learned?
-     3.2 What has been easy?
-     3.3 What has been difficult?
-     3.4 How have you used the problem solving strategies from the first project to overcome challenges so far?
+       1. What new skills have you learned?
+       2. What has been easy?
+       3. What has been difficult?
+       4. How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 # Supporting Materials
 - [mockup-to-article.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58501f5b_mockup-to-article/mockup-to-article.zip)
