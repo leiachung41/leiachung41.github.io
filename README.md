@@ -1,19 +1,6 @@
 # pre_Portfolio
 
-This portfolio has 2 part.
-
-Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**.
-
-Part 2 is practice myself while self study from online sources.
-
-
-
-#### 
-- Description:
-- Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/" target="_blank"></a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/" target="_blank">prePF//</a>
-
+This portfolio has 2 part. Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**. Part 2 is practice myself while self study from online sources.
 
 ## Part 1
 
