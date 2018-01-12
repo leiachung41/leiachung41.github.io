@@ -75,14 +75,14 @@ This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web D
 #### Todo App
 - Description:
 - Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/" target="_blank">Todo App</a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/" target="_blank">prePF//</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 
 #### Mansonry Layout
 - Description:
 - Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank"></a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank"></a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
 
 #### Tree View
 - Description:
