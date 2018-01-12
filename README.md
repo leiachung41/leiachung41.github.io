@@ -29,7 +29,13 @@ Part 2 is practice myself while self study from online sources.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
 
-- Build a Portfolio Site : Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
+#### Build a Portfolio Site
+- Description: Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
+- Key Points:
+- Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
+
+
 
 - Online Resume : Once you've mastered the skills of a front end web developer you'll want to make a great first impression. You need a resume that stands out. The resume you build will not only help you build important skills, but will also make it easy to show employers why you’re perfect for the job. As you progress through this Nanodegree program you can update this resume with your new skills and projects.
 
