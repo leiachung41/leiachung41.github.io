@@ -1,6 +1,6 @@
 # pre_Portfolio
 
-This portfolio has 2 part. Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**. Part 2 is practice myself while self study from online sources.
+This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web Developer Nanodegree Program**. Part 2 is practice myself while self study from online sources.
 
 ## Part 1
 
