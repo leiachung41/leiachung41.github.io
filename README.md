@@ -11,13 +11,23 @@ Part 2 is practice myself while self study from online sources.
 #### Mockup to Article
 - Description: I converted a designer's <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a blog <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">article</a> into a real webpage using my HTML skills. 
 - Key points: HTML
-- Link: <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/index.html" target="_blank">Mockup to Article</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/index.html" target="_blank">Mockup to Article</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article" target="_blank">prePF/Mockup_to_Article/</a>
+
+#### 
+- Description:
+- Key Points:
+- Final Result: <a href="https://leiachung41.github.io/prePF/" target="_blank"></a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/" target="_blank">prePF//</a>
+
 
 
 #### Animal Trading Cards
+- Description: Use my knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
+- Key Points: HTML, CSS
+- Final Result: <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/card.html" target="_blank">Animal Trading Cards</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
-- Animal Trading Cards : Use my knowledge of HTML and CSS to create a web-based trading card depicting your favorite animal
 
 - Build a Portfolio Site : Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
 
