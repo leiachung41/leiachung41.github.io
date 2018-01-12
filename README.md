@@ -114,11 +114,11 @@ This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web D
 - Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index2.html" target="_blank">Templated Visualize</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
 
-#### Parallx
+#### Parallax
 - Description:
 - Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/Parallx/parallx.html" target="_blank">Parallx</a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallx/" target="_blank">prePF/Parallx/</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Parallax/parallx.html" target="_blank">Parallax</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
 
 #### Random Background Image
 - Description:
