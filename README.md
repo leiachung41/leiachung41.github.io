@@ -19,7 +19,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
 #### Build a Portfolio Site
-- Description: For this project, I build a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
+- Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
 - Key Points: HTML, CSS, Grunt
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
