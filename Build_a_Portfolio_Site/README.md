@@ -45,7 +45,7 @@ Instructions:
 5. Validate your HTML and CSS against the [W3C's Validators](http://validator.w3.org/). Note: the validators consider the following errors, whereas Udacity accepts these errors as acceptable:
   
 > 1. HTML5: **Bad value X-UA-Compatible for attribute http-equiv on element meta** when using the X-UA-Compatible meta tag.
-2. CSS3: **Property [some property here] is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
+> 2. CSS3: **Property [some property here] is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
 
 ## Additional resources
 Here are some tools you will find useful in checking your work —
