@@ -19,14 +19,6 @@ Review the Animal Trading Cards project rubric.
        4. border around the animal's name, image, and information
        5. border around the animal's information
        6. spacing between the animal's name, image, and information (you will need to use the property padding)
-
-
-3. When you've finished building the article, open up` reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
-  
-       1. What new skills have you learned?
-       2. What has been easy?
-       3. What has been difficult?
-       4. How have you used the problem solving strategies from the first project to overcome challenges so far?
  
 # Supporting Materials
 - fend-animal-trading-cards-master.zip
