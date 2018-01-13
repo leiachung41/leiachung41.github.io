@@ -51,8 +51,8 @@ Your repository should include the following files:
   - js/helper.js: Contains helper code needed to format the resume and build the map. It also has a few function shells for additional functionality. More on helper.js further down.
   - js/resumeBuilder.js: This file is empty. You should write your code here.
   - js/jQuery.js: The jQuery library.
-  -   - css/style.css: Contains all of the CSS needed to style the page.
-README.md: The GitHub README file.
+  - css/style.css: Contains all of the CSS needed to style the page.
+  - README.md: The GitHub README file.
   - and some images in the images directory.
 
 ## Your starting point...
@@ -68,20 +68,18 @@ The resume has four distinct sections: work, education, projects and a header wi
 
 2. bio contains:
 
-> name : string
-
-> role : string
-> contacts : an object with
-
-> > mobile: string
-> > email: string 
-> > github: string
-> > twitter: string (optional)
-> > location: string
-> welcomeMessage: string 
-> skills: array of strings
-> biopic: url
-> display: function
+&emsp;name : string <br>
+&emsp;role : string <br>
+&emsp;contacts : an object with <br>
+&emsp;&emsp;mobile: string <br>
+&emsp;&emsp;email: string <br>
+&emsp;&emsp;github: string <br>
+&emsp;&emsp;twitter: string (optional) <br>
+&emsp;&emsp;location: string <br>
+&emsp;welcomeMessage: string <br>
+&emsp;skills: array of strings <br>
+&emsp;biopic: url <br>
+&emsp;display: function <br>
 
 3. education contains:
 
