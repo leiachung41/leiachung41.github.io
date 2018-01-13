@@ -13,7 +13,7 @@ file (a copy of the text in it). I'm going to recreate it with HTML.
 
 #### Animal Trading Cards
 - Description: 
-This project combines the skills I mastered in the problem set and asks I to re-create a webpage from a design prototype. I'm given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film. I’ll be creating the card and swapping out the fish with an animal of my choice.
+This project combines the skills I mastered in the problem set and asks I to re-create a webpage from a design prototype. I'm given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I’ll be creating the card and swapping out the fish with an animal of my choice.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/index.html" target="_blank">Animal Trading Cards</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
