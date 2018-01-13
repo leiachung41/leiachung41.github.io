@@ -13,12 +13,12 @@ Review the Animal Trading Cards project rubric.
   3. Once you've added your favorite animal's image and information, add the proper CSS to styles.css to recreate the design-prototype.png by applying the style rules in step 4. You’ll need to modify card.html to include attributes and use selectors to specify the elements you want to style. Also, make sure to link to your stylesheet in card.html or else your CSS will not be applied to your webpage.
   4. The CSS should apply these styles to match the design prototype:
   
-        1. italicized text for the animal's interesting fact
-        2. bolded labels for the animal's list items (e.g. 'Habitat')
-        3. no dots for the animal's list items
-        4. border around the animal's name, image, and information
-        5. border around the animal's information
-        6. spacing between the animal's name, image, and information (you will need to use the property padding)
+       1. italicized text for the animal's interesting fact
+       2. bolded labels for the animal's list items (e.g. 'Habitat')
+       3. no dots for the animal's list items
+       4. border around the animal's name, image, and information
+       5. border around the animal's information
+       6. spacing between the animal's name, image, and information (you will need to use the property padding)
 
 # Supporting Materials
 - fend-animal-trading-cards-master.zip
