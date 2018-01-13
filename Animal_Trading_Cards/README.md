@@ -16,12 +16,12 @@ Review the Animal Trading Cards [project rubric](https://github.com/leiachung41/
 
 4. The CSS should apply these styles to match the design prototype:
   
-       1. italicized text for the animal's interesting fact
-       2. bolded labels for the animal's list items (e.g. 'Habitat')
-       3. no dots for the animal's list items
-       4. border around the animal's name, image, and information
-       5. border around the animal's information
-       6. spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
+    1. italicized text for the animal's interesting fact
+    2. bolded labels for the animal's list items (e.g. 'Habitat')
+    3. no dots for the animal's list items
+    4. border around the animal's name, image, and information
+    5. border around the animal's information
+    6. spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
  
 # Supporting Materials
 - [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip)
