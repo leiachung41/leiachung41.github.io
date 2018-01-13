@@ -30,7 +30,7 @@ The design mockup for this project is located [here](https://storage.googleapis.
 ## How do I Complete this Project?
 All of the lessons you'll need to help you build this can be found in the lessons in this part of your Nanodegree program.
 
-Depending on your background knowledge of HTML and CSS, you may not need to complete all lessons to build this project. To evaluate what you'll need to know, start by downloading the mockup we've provided, and review the [Project Rubric](https://github.com/leiachung41/prePF/tree/master/Online_Resume/rubric.pdf).
+Depending on your background knowledge of HTML and CSS, you may not need to complete all lessons to build this project. To evaluate what you'll need to know, start by downloading the mockup we've provided, and review the [Project Rubric](https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/rubric.pdf).
 
 Be sure to follow the Project Rubric closely when designing your page. For example, note that [HTML5 semantic (structural) elements](https://www.w3.org/wiki/HTML_structural_elements#Enter_HTML5_structural_elements) must be used to organize content.
 
