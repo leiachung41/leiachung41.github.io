@@ -23,6 +23,7 @@ If you were previously enrolled in our Intro to HTML and CSS single course and s
 
 The design mockup for this project is located [here](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf).
 
+
 # Project Details
 
 ## How do I Complete this Project?
