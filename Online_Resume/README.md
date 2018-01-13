@@ -69,8 +69,10 @@ The resume has four distinct sections: work, education, projects and a header wi
 2. bio contains:
 
 > name : string
+
 > role : string
 > contacts : an object with
+
 > > mobile: string
 > > email: string 
 > > github: string
