@@ -17,5 +17,5 @@ Review the Article to Mockup <a href="https://github.com/leiachung41/prePF/blob/
     3. What has been difficult?
     4. How have you used the problem solving strategies from the first project to overcome challenges so far?
 
-# Supporting Materials
+## Supporting Materials
 - [mockup-to-article.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58501f5b_mockup-to-article/mockup-to-article.zip)
