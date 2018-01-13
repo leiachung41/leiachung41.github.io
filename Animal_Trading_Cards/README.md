@@ -5,6 +5,8 @@ Before you move on, I have one more challenge. I want you to use what you've lea
 
 This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated to an actual, functional website. In most cases, designers only provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film. You’ll be creating the card and swapping out the fish with an animal of your choice.
 
+
+
 # Project Instructions
 Review the Animal Trading Cards [project rubric](https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards/rubric.pdf).
 
@@ -16,12 +18,12 @@ Review the Animal Trading Cards [project rubric](https://github.com/leiachung41/
 
 4. The CSS should apply these styles to match the design prototype:
   
-       1. italicized text for the animal's interesting fact
-       2. bolded labels for the animal's list items (e.g. 'Habitat')
-       3. no dots for the animal's list items
-       4. border around the animal's name, image, and information
-       5. border around the animal's information
-       6. spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
+    1. italicized text for the animal's interesting fact
+    2. bolded labels for the animal's list items (e.g. 'Habitat')
+    3. no dots for the animal's list items
+    4. border around the animal's name, image, and information
+    5. border around the animal's information
+    6. spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
  
-# Supporting Materials
+## Supporting Materials
 - [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip)
