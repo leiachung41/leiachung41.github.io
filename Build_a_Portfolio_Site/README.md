@@ -11,7 +11,7 @@ In this project you’ll build a great looking portfolio where you can show off 
 # What will I learn?
 You will learn how HTML is used to define the content of a web page and start to think of every web page as a number of boxes on the screen. You’ll then learn how to position those boxes and make them beautiful using CSS.
 
-You'll accomplish this while conforming to a [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which is an important constraint once you step into any existing development position.
+You'll accomplish this while conforming to a style guide which is an important constraint once you step into any existing development position.
 
 # Why is this important to my career?
 - Without a portfolio, recruiters won’t even look at your resume much less interview you.
