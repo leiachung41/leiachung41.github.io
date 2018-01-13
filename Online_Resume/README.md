@@ -68,18 +68,19 @@ The resume has four distinct sections: work, education, projects and a header wi
 
 2. bio contains:
 
-      name : string
-      role : string
-      contacts : an object with
-            mobile: string
-            email: string 
-            github: string
-            twitter: string (optional)
-            location: string
-      welcomeMessage: string 
-      skills: array of strings
-      biopic: url
-      display: function
+> name : string
+> role : string
+> contacts : an object with
+> > mobile: string
+> > email: string 
+> > github: string
+> > twitter: string (optional)
+> > location: string
+> welcomeMessage: string 
+> skills: array of strings
+> biopic: url
+> display: function
+
 3. education contains:
 
       schools: array of objects with
