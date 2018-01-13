@@ -5,21 +5,21 @@ This portfolio has two parts. Part 1 is projects from **Udacity: Front-End Web D
 ## Part 1
 
 #### Mockup to Article
-- Description: This project is translating a mockup to HTML. I'm given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
-file (a copy of the text in it). I'm going to recreate it with HTML.
+- Description: This project is translating a mockup to HTML. I was given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
+file (a copy of the text in it). I recreated it with HTML.
 - Key points: HTML
 - Final Result: <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/index.html" target="_blank">Mockup to Article</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article" target="_blank">prePF/Mockup_to_Article/</a>
 
 #### Animal Trading Cards
 - Description: 
-This project combines the skills I mastered in the problem set and asks I to re-create a webpage from a design prototype. I'm given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I’ll be creating the card and swapping out the fish with an animal of my choice.
+This project is re-creating a webpage from a design prototype. I was given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/index.html" target="_blank">Animal Trading Cards</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
 #### Build a Portfolio Site
-- Description: For this project, I'll be building a portfolio website. I am given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicate that design in HTML and CSS. I will develop a responsive website that will display images, descriptions and links to each of the portfolio projects. 
+- Description: For this project, I build a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
 - Key Points: HTML, CSS, Grunt
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
