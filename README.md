@@ -19,8 +19,8 @@ This project combines the skills I mastered in the problem set and asks I to re-
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
 #### Build a Portfolio Site
-- Description: Given a pdf mockup of a website from a designer, translate it to a real website using your HTML and CSS skills.
-- Key Points:
+- Description: For this project, I'll be building a portfolio website. I am given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicate that design in HTML and CSS. I will develop a responsive website that will display images, descriptions and links to each of the portfolio projects. 
+- Key Points: HTML, CSS, Grunt
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
 
