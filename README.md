@@ -25,10 +25,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
 
 #### Online Resume
-- Description: 
-In this project, I stored my resume data in four JavaScript objects according to the schema given. All property values should be of the data-type given for the property in the schema.
-
-I built my resume by writing <a href="https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS" target="_blank">style.css</a> templates to generate my resume. I used skills that I learned basic JavaScript syntax, which includes manipulating data, building loops and creating functions. At the same time, I used some simple jQuery DOM manipulation methods.
+- Description: For this project, I built my resume by writing <a href="https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS" target="_blank">style.css</a> templates to generate my resume. I used skills that I learned basic JavaScript syntax, which includes manipulating data, building loops and creating functions. At the same time, I used some simple jQuery DOM manipulation methods.
 - Key Points: HTML, CSS, JavaScript, jQuery, DOM
 - Final Result: <a href="https://leiachung41.github.io/prePF/Online_Resume/index.html" target="_blank">Online Resume</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Online_Resume/" target="_blank">prePF/Online_Resume/</a>
