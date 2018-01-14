@@ -42,7 +42,9 @@ Review the Online Resume [Project Rubric](https://github.com/leiachung41/prePF/t
 8. Check your work against the [Project Rubric](https://github.com/leiachung41/prePF/tree/master/Online_Resume/rubric.pdf).
 
 9. When you are satisfied with your project, submit it according to the Submission Instructions on the next page.
+
 ![resume sample](http://i.imgur.com/pWU1Xbl.png)
+
 By the end, your resume should look something like this.
 
 Your repository should include the following files:
