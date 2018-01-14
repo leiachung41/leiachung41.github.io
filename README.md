@@ -31,16 +31,15 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Online_Resume/" target="_blank">prePF/Online_Resume/</a>
 
 #### Classic Arcade Game Clone
-- Description: 
-I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>; using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.
+- Description: In this project, I built my own arcade game like Frogger Game. I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.
 - Key Points: HTML, JacaScript, OOJ
 - Final Result: <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
 
 #### Website Oprimization
-- Description: I will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.
-- Key Points:
-- Final Result: <a href="" target="_blank">Website Oprimization</a>
+- Description: I optimized a <a>provided website</a> with a number of optimization and performance related issues using critical rendering path, the process by which the browser receives HTML, CSS and JavaScript and the required processing to turn them into rendered pixels. I achieved a PageSpeed score of at least 90 for index.html both Mobile and Desktop version. I Optimized to <a href="https://github.com/leiachung41/Web-Optimization/blob/master/views/js/main.js" target="_blank">views/js/main.js</a> make <a href="https://leiachung41.github.io/Web-Optimization/views/pizza.html" target="_blank">views/pizza.html</a> render with a consistent frame-rate at 60fps when scrolling. Also, I reduced time to resize pizzas is less than 5 ms using the pizza size slider on the <a href="https://leiachung41.github.io/Web-Optimization/views/pizza.html" target="_blank">views/pizza.html</a> page. (Resize time is shown in the browser developer tools.)
+- Key Points: HTML, CSS, JavaScript, Grunt, ngrok, json, Google Page Speed Insights, Chrome Developer Tools
+- Final Result: <a href="https://leiachung41.github.io/Web-Optimization/" target="_blank">Website Oprimization</a>
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 
 #### Neighbourhood Map
