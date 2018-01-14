@@ -43,13 +43,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 
 #### Neighbourhood Map
-- Description: I will develop a single-page application featuring a map of my neighbourhood or a neighbourhood I would like to visit.
+- Description: I developed a single-page application featuring a map of my neighbourhood.
 - Key Points:
 - Final Result: <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
-- Description: In this project I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I will complete and test the suite using jasmine as a behavior-driven development framework.
+- Description: In this project, I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework.
 - Key Points:
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
