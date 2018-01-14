@@ -67,69 +67,69 @@ The resume has four distinct sections: work, education, projects and a header wi
 1. Build four JavaScript objects, each one representing a different resume section. The objects that you create (including property names and the data types of their values) need to follow the schema below exactly. All properties should be included and contain a value of the type specified unless the property is marked 'optional'. Property values may contain real or fake data. Property names are case-sensitive. Make sure your JavaScript objects are formatted correctly using jshint.com.
 
 2. bio contains:
-
-&emsp;&emsp; name : string <br>
-&emsp;&emsp; role : string <br>
-&emsp;&emsp; contacts : an object with <br>
-&emsp;&emsp;&emsp; mobile: string <br>
-&emsp;&emsp;&emsp; email: string <br>
-&emsp;&emsp;&emsp; github: string <br>
-&emsp;&emsp;&emsp; twitter: string (optional) <br>
-&emsp;&emsp;&emsp; location: string <br>
-&emsp;&emsp; welcomeMessage: string <br>
-&emsp;&emsp; skills: array of strings <br>
-&emsp;&emsp; biopic: url <br>
-&emsp;&emsp; display: function <br>
+    - name : string
+    - role : string
+    - contacts : an object with
+      + mobile: string
+      + email: string
+      + github: string
+      + twitter: string (optional)
+      + location: string
+    - welcomeMessage: string
+    - skills: array of strings
+    - biopic: url
+    - display: function
 
 3. education contains:
-
-      schools: array of objects with
-           name: string
-           location: string
-           degree: string
-           majors: array of strings
-           dates: string (works with a hyphen between them)
-           url: string (optional)
-      onlineCourses: array of objects with
-           title: string
-           school: string
-           dates: string (works with a hyphen between them)
-           url: string
-      display: function
+    - schools: array of objects with
+      + name: string
+      + location: string
+      + degree: string
+      + majors: array of strings
+      + dates: string (works with a hyphen between them)
+      + url: string (optional)
+    - onlineCourses: array of objects with
+      + title: string
+      + school: string
+      + dates: string (works with a hyphen between them)
+      + url: string
+    - display: function
+    
 4. work contains
-
-      jobs: array of objects with
-           employer: string 
-           title: string 
-           location: string 
-           dates: string (Can be 'in progress')
-           description: string 
-      display: function
+    - jobs: array of objects with
+      + employer: string 
+      + title: string 
+      + location: string 
+      + dates: string (Can be 'in progress')
+      + description: string 
+    - display: function
+    
 5. projects contains:
 
-      projects: array of objects with
-            title: string 
-            dates: string (works with a hyphen between them)
-            description: string
-            images: array with string urls
-      display: function
+    - projects: array of objects with
+      + title: string 
+      + dates: string (works with a hyphen between them)
+      + description: string
+      + images: array with string urls
+    - display: function
 
+***
 
 1. Iterate through each JavaScript object and append its information to index.html in the correct section.
-First off, you’ll be using jQuery’s selector.append() and selector.prepend() functions to modify index.html. selector.append() makes an element appear at the end of a selected section. selector.prepend() makes an element appear at the beginning of a selected section.
-Pay close attention to the ids of the <div>s in index.html and the HTML snippets in helper.js. They’ll be very useful as jQuery selectors for selector.append() and selector.prepend()
+    - First off, you’ll be using jQuery’s selector.append() and selector.prepend() functions to modify index.html. selector.append() makes an element appear at the end of a selected section. selector.prepend() makes an element appear at the beginning of a selected section.
+    - Pay close attention to the ids of the <div>s in index.html and the HTML snippets in helper.js. They’ll be very useful as jQuery selectors for selector.append() and selector.prepend()
 
 2. You’ll also be using the JavaScript method string.replace(old, new) to swap out all the placeholder text (e.g. %data%) for data from your resume javaScript objects.
 
 3. Here’s an example of some code that would add the location of one your companies to the page:
-  1. var formattedLocation = HTMLworkLocation.replace("%data%", work.jobs[job].location);
-  2. $(".work-entry:last").append(formattedLocation);
-    1. Use the mockup at the bottom of this document as a guide for the order in which you should append elements to the page.
+    - var formattedLocation = HTMLworkLocation.replace("%data%", work.jobs[job].location);
+    - $(".work-entry:last").append(formattedLocation);
+      + Use the mockup at the bottom of this document as a guide for the order in which you should append elements to the page.
 
 4. The resume includes an interactive map. Do the following to add it.
-  1. In resumeBuilder.js, append the googleMap string to <div id=”mapDiv”>.
-  2. In index.html, uncomment the Google script element: <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script>
-  3. In helper.js, at the bottom of the file, uncomment code to initialize map and set fitBounds.
+    - In resumeBuilder.js, append the googleMap string to <div id=”mapDiv”>.
+    - In index.html, uncomment the Google script element: <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script>
+    - In helper.js, at the bottom of the file, uncomment code to initialize map and set fitBounds.
 
 5. All of your code for adding elements to the resume should be contained within functions.
 
