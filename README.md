@@ -32,9 +32,8 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 
 #### Classic Arcade Game Clone
 - Description: 
-
-You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
-- Key Points:
+I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>; using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.
+- Key Points: HTML, JacaScript, OOJ
 - Final Result: <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
 
