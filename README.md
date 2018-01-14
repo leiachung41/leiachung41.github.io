@@ -31,7 +31,9 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Online_Resume/" target="_blank">prePF/Online_Resume/</a>
 
 #### Classic Arcade Game Clone
-- Description: You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
+- Description: 
+
+You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 - Key Points:
 - Final Result: <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
