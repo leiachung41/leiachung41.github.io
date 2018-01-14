@@ -46,7 +46,7 @@ Review the Online Resume [Project Rubric](https://github.com/leiachung41/prePF/t
 ![resume sample](http://i.imgur.com/pWU1Xbl.png)
 
 By the end, your resume should look something like this.
-
+***
 Your repository should include the following files:
 
   - **index.html**: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
