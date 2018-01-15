@@ -20,7 +20,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 
 #### Build a Portfolio Site
 - Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
-- Key Points: HTML, CSS, Grunt
+- Key Points: HTML, CSS, Grunt, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
 
@@ -43,14 +43,14 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 
 #### Neighbourhood Map
-- Description: I developed a single-page application featuring a map of my neighbourhood.
-- Key Points:
+- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities. 
+- Key Points: HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
 - Description: In this project, I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework.
-- Key Points:
+- Key Points: HTML, Jasmine
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
 
