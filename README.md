@@ -59,7 +59,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Cat Clicker
 - Description:
 - Key Points: HTML, CSS, JavaScript, jQuery, MVO pattern
-- Final Result: <a href="https://leiachung41.github.io/prePF/Cat_Clicker/index_P_v2.html" target="_blank">Cat Clicker</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premiun_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 
 #### Find your Future Home
