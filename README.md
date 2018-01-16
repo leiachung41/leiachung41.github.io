@@ -20,7 +20,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 
 #### Build a Portfolio Site
 - Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
-- Key Points: HTML, CSS, Grunt
+- Key Points: HTML, CSS, Grunt, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
 
@@ -43,14 +43,14 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 
 #### Neighbourhood Map
-- Description: I developed a single-page application featuring a map of my neighbourhood.
-- Key Points:
+- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities. 
+- Key Points: HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
 - Description: In this project, I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework.
-- Key Points:
+- Key Points: HTML, JavaScript, jQuery, JasmineJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
 
@@ -58,84 +58,84 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 
 #### Cat Clicker
 - Description:
-- Key Points:
-- Final Result: <a href="https://leiachung41.github.io/prePF/Cat_Clicker/index_P_v2.html" target="_blank">Cat Clicker</a>
+- Key Points: HTML, CSS, JavaScript, jQuery, MVO pattern
+- Final Result: <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premiun_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 
 #### Find your Future Home
 - Description:
-- Key Points:
+- Key Points: HTML, CSS, JavaScript, jQuery, Google Maps API
 - Final Result: <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 
 #### Building the Hometown App
 - Description:
-- Key Points:
+- Key Points: HTML, CSS, JavaScript, jQuery, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
 
 #### Todo App
 - Description:
-- Key Points:
+- Key Points: HTML, JavaScript, BackboneJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 
 #### Mansonry Layout
 - Description:
-- Key Points:
+- Key Points: HTML, CSS, Pinterest style layout
 - Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank">Mansonry Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
 
 #### Tree View
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Tree_View/tree.html" target="_blank">Tree View</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Tree_View/" target="_blank">prePF/Tree_View/</a>
 
 #### Link Button
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Link_Button/link_button.html" target="_blank">Link Button</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF//</a>
 
 #### Holy Grail Layout
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/holygrail.html" target="_blank">Holy Grail Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 
 #### Thumbnail
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/thumbnail.html" target="_blank">Thumbnail</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 
 #### Templated Visualize
 - Description:
-- Key Points:
+- Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index2.html" target="_blank">Templated Visualize</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
 
 #### Parallax
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Parallax/parallax.html" target="_blank">Parallax</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
 
 #### Random Background Image
 - Description:
-- Key Points:
+- Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Random_Background_Image/random_bg_image.html" target="_blank">Random Background Image</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 
 #### Mojs
 - Description:
-- Key Points:
+- Key Points: HTML, JavaScript
 - Final Result: <a href="https://leiachung41.github.io/prePF/Mojs/mojs.html" target="_blank">Mojs</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
 
 #### Reloadless
 - Description:
-- Key Points:
+- Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Reloadless/page1.html" target="_blank">Reloadless</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless/" target="_blank">prePF/Reloadless/</a>
