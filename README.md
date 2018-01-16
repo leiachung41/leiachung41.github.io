@@ -43,13 +43,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 
 #### Neighbourhood Map
-- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities. 
+- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
 - Key Points: HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
-- Description: In this project, I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework.
+- Description: In this project, I am given a <a>web-based application</a> that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.
 - Key Points: HTML, JavaScript, jQuery, JasmineJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
