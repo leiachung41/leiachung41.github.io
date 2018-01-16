@@ -57,13 +57,18 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 ## Part 2
 
 #### Cat Clicker
-- Description:
+- Description: This project is consist of 5 versions of cat clicker. It is simple application that when you clicked the cat, it counted clicks. It saved click counts and showed in the application. First 3 versions are I developed it from scratch. I used just simple javascript function to made these. Second 2 premiun versions are I used MVO pattern to program these.
 - Key Points: HTML, CSS, JavaScript, jQuery, MVO pattern
 - Final Result: <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 
 #### Find your Future Home
-- Description:
+- Description: This is application featuring a map of finding my future home. I used Google Maps API function to develop this application.  
+
+
+
+In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
+
 - Key Points: HTML, CSS, JavaScript, jQuery, Google Maps API
 - Final Result: <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
