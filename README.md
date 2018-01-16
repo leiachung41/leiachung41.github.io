@@ -49,7 +49,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
-- Description: In this project, I am given a web-based application (<a href="https://leiachung41.github.io/Feed_Reader_Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/before/feedreader_B4.js">feedreader.js</a> that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.
+- Description: In this project, I am given a web-based application (<a href="https://leiachung41.github.io/Feed_Reader_Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/before/feedreader_B4.js">feedreader.js</a>) that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.
 - Key Points: HTML, JavaScript, jQuery, JasmineJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
@@ -63,12 +63,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 
 #### Find your Future Home
-- Description: This is application featuring a map of finding my future home. I used Google Maps API function to develop this application.  
-
-
-
-In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
-
+- Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want. 
 - Key Points: HTML, CSS, JavaScript, jQuery, Google Maps API
 - Final Result: <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
