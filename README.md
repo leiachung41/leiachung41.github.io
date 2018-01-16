@@ -49,7 +49,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 
 #### Feed Reader Testing
-- Description: In this project, I am given a <a>web-based application</a> that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.
+- Description: In this project, I am given a web-based application (<a href="https://leiachung41.github.io/Feed_Reader_Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/before/feedreader_B4.js">feedreader.js</a> that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.
 - Key Points: HTML, JavaScript, jQuery, JasmineJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Feed_Reader_Testing/index.html" target="_blank">Feed Reader Testing</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Feed_Reader_Testing/" target="_blank">prePF/Feed_Reader_Testing/</a>
