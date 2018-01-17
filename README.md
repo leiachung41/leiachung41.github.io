@@ -81,8 +81,11 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
 
 #### Todo App
-- Description: 
-- Key Points: HTML, JavaScript, BackboneJS
+- Description: http://todomvc.com/
+http://todomvc.com/examples/backbone/
+
+
+- Key Points: HTML, JavaScript, BackboneJS, MVC pattern
 - Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 
