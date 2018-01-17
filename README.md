@@ -111,7 +111,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 
 #### Thumbnail
-- Description: I made thumbnails using css featured border and background-image. The original picture is like <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target=""_blank>this</a>.
+- Description: I made thumbnails using css featured border and background-image. The original picture is like <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">this</a>.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/thumbnail.html" target="_blank">Thumbnail</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
