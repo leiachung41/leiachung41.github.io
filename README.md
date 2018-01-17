@@ -135,13 +135,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 
 #### Reloadless Music App
-- Description: I praticed Reloadless Music App.
+- Description: I praticed Reloadless Music App. It is working without reload the music app and just partly changing. 
 - Key Points: HTML, CSS, JavaScript, jQuery
-- Final Result: <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/page1.html" target="_blank">Reloadless</a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless/</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/page1.html" target="_blank">Reloadless Music App</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless_Music_App/</a>
 
 #### Mojs
-- Description:
-- Key Points: HTML, JavaScript
-- Final Result: <a href="https://leiachung41.github.io/prePF/Mojs/mojs.html" target="_blank">Mojs</a>
+- Description: I praticed Mojs <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is motion graphic javascript library.
+- Key Points: HTML, JavaScript, Mojs
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mojs</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
