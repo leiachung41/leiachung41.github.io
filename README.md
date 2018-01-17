@@ -74,6 +74,12 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Final Result: <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
 
+#### My Responsive Blog
+- Description: 
+- Key Points: HTML, CSS, JavaScript, jQuery, Responsive web
+- Final Result: <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">Building the Hometown App</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
+
 #### Todo App
 - Description: 
 - Key Points: HTML, JavaScript, BackboneJS
