@@ -45,7 +45,7 @@ figure {
     font-weight: 400;
     font-style: italic;
 }
-.footer #social [class*="zocial-"]:before {
+.footer #social [class*="icon-"]:before {
     color: #262626;
     display: inline-block;
     font-family: 'zocial', sans-serif;
