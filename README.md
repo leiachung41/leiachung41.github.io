@@ -69,13 +69,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 
 #### Building the Hometown App
-- Description:
+- Description: This application is abiut hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017. 
 - Key Points: HTML, CSS, JavaScript, jQuery, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
 
 #### Todo App
-- Description:
+- Description: 
 - Key Points: HTML, JavaScript, BackboneJS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
