@@ -102,7 +102,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Description: I praticed link button. I used css that featured transform and transition.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Link_Button/link_button.html" target="_blank">Link Button</a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF//</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF/Link_Button/</a>
 
 #### Holy Grail Layout
 - Description: I praticed holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
@@ -111,39 +111,37 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 
 #### Thumbnail
-- Description: I made thumbnails using css featured border and background-image. The original picture is like <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">this</a>.
+- Description: I made thumbnails using css featured border and background-image. I turn this original <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">picture</a> into 4 types of thumbnails.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/thumbnail.html" target="_blank">Thumbnail</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 
 #### Templated Visualize
-- Description: 
-https://templated.co/visualize
-
+- Description: I praticed a visualize and responsive site and refered <a href="https://templated.co/visualize" target="_blank">Templated</a>.
 - Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index2.html" target="_blank">Templated Visualize</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
 
 #### Parallax
-- Description:
+- Description: I praticed a parallax site and refered <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css featured that background and transform.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Parallax/parallax.html" target="_blank">Parallax</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
 
 #### Random Background Image
-- Description:
+- Description: I praticed a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Random_Background_Image/random_bg_image.html" target="_blank">Random Background Image</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
-
-#### Mojs
-- Description:
-- Key Points: HTML, JavaScript
-- Final Result: <a href="https://leiachung41.github.io/prePF/Mojs/mojs.html" target="_blank">Mojs</a>
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
 
 #### Reloadless
 - Description:
 - Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Reloadless/page1.html" target="_blank">Reloadless</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless/" target="_blank">prePF/Reloadless/</a>
+
+#### Mojs
+- Description:
+- Key Points: HTML, JavaScript
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mojs/mojs.html" target="_blank">Mojs</a>
+- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
