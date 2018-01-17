@@ -1,0 +1,56 @@
+body {
+    font-family: 'Lora', serif;
+    text-align: center;
+    display: block;
+}
+
+.header {
+    margin: 5em auto;
+}
+.header h1 {
+    font-size: 3em;
+    color: #bf4040;
+}
+.header h1 span {
+    border-bottom: 2px dotted #993333;
+}
+.container {
+    border-bottom: 1.2px dotted #993333;
+}
+.container h2 {
+    margin: 3em auto;
+    color: #bf4040;
+}
+.container h2 span {
+    border-bottom: 1px dotted #993333;
+}
+.paragraph {
+    font-size: 18px;
+    margin: 3em auto;
+    text-align: justify;
+}
+p {
+    margin: 1em auto;
+}
+figure {
+    margin: 0;
+}
+.image {
+    max-width: 100%;
+    margin: auto;
+}
+.caption {
+    margin-top: 1em;
+    color: #666666;
+    font-weight: 400;
+    font-style: italic;
+}
+.footer #social [class*="zocial-"]:before {
+    color: #262626;
+    display: inline-block;
+    font-family: 'zocial', sans-serif;
+    font-size: 1.5em;
+    text-shadow: 3px 3px 3px #aaa;
+    width: 2em;
+    padding: 0.7em;
+}
