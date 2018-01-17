@@ -69,15 +69,15 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 
 #### Building the Hometown App
-- Description: This application is abiut hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017. 
+- Description: This application is about hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017. 
 - Key Points: HTML, CSS, JavaScript, jQuery, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
 
 #### My Responsive Blog
-- Description: 
+- Description: This is responsive blog. I developed it as a result of pratice reponsive blog like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. 
 - Key Points: HTML, CSS, JavaScript, jQuery, Responsive web
-- Final Result: <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">Building the Hometown App</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">My Responsive Blog</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
 
 #### Todo App
