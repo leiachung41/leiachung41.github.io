@@ -81,46 +81,45 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
 
 #### Todo App
-- Description: http://todomvc.com/
-http://todomvc.com/examples/backbone/
-
-
+- Description: I praticed MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a>site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some featured this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
 - Key Points: HTML, JavaScript, BackboneJS, MVC pattern
 - Final Result: <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 
 #### Mansonry Layout
-- Description:
+- Description: I praticed mansonry layout a.k.a. pinterest style. I refered <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
 - Key Points: HTML, CSS, Pinterest style layout
 - Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank">Mansonry Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
 
 #### Tree View
-- Description:
+- Description: I praticed tree view UI without Javascript. I just used html and css that featured selector and label.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Tree_View/tree.html" target="_blank">Tree View</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Tree_View/" target="_blank">prePF/Tree_View/</a>
 
 #### Link Button
-- Description:
+- Description: I praticed link button. I used css that featured transform and transition.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Link_Button/link_button.html" target="_blank">Link Button</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF//</a>
 
 #### Holy Grail Layout
-- Description:
+- Description: I praticed holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/holygrail.html" target="_blank">Holy Grail Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 
 #### Thumbnail
-- Description:
+- Description: I made thumbnails using css featured border and background-image. The original picture is like <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target=""_blank>this</a>.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/thumbnail.html" target="_blank">Thumbnail</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 
 #### Templated Visualize
-- Description:
+- Description: 
+https://templated.co/visualize
+
 - Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index2.html" target="_blank">Templated Visualize</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
