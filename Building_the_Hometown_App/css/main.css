@@ -147,7 +147,7 @@ main {
 }
 .hero article .trump {
   width: 100%;
-  position: relative;
+  /* position: relative; */
   height:300px;
 }
 .hero article {
