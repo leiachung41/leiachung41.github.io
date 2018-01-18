@@ -6,7 +6,7 @@ This application is about hometown app.
 
 ## Motivation
 
-I developed it as a result of pratice reponsive web like this index.html.
+I developed it as a result of pratice reponsive web like this [index.html](https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html).
 
 ## Features
 
@@ -25,6 +25,9 @@ HTML, CSS, JavaScript, jQuery, Grunt, Responsive web
 *Or you can connect to the application via online here [Building the Hometown App](https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html).*
 
 ## Usage
+
+  - If you adjust a window size, the contents automatically respond the size that you can comfort to read.
+  - If a window is too small, there is a hamburger menu is on the right above on the window. 
 
 ## References
 
