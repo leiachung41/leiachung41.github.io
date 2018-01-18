@@ -1,8 +1,8 @@
 # 
 
-## Goals
+## How to build?
 
-## Details
+## What I build?
 
 ## How to download it?
 
