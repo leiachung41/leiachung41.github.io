@@ -146,7 +146,7 @@ main {
     height:300px;
 }
 .hero .trump {
-
+    width: 300px;
 }
 .hero article {
     box-sizing: border-box;
