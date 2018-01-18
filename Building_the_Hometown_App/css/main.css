@@ -145,7 +145,7 @@ main {
     /* background-size: cover; */
     height:300px;
 }
-.hero .trump {
+.hero article .trump {
   width: 100%;
   position: relative;
   height:300px;
