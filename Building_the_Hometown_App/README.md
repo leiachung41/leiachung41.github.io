@@ -4,11 +4,6 @@
 
 This application is about hometown app.
 
-## Screenshots
-![page1](https://leiachung41.github.io/prePF/Building_the_Hometown_App/capture/page1.png)
-![page2](https://leiachung41.github.io/prePF/Building_the_Hometown_App/capture/page2.png)
-![page3](https://leiachung41.github.io/prePF/Building_the_Hometown_App/capture/page3.png)
-![page4](https://leiachung41.github.io/prePF/Building_the_Hometown_App/capture/page4.png)
 ## Motivation
 
 I developed it as a result of pratice reponsive web like this index.html.
