@@ -141,11 +141,13 @@ main {
 .hero {
     width: 100%;
     position: relative;
-    background-image: url("/images/trumpnafta.jpg");
+    /* background-image: url("/images/trumpnafta.jpg"); */
     background-size: cover;
     height:300px;
 }
+.hero .trump {
 
+}
 .hero article {
     box-sizing: border-box;
     background-color: #000;
