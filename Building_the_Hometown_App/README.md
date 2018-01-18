@@ -5,6 +5,7 @@
 This application is about hometown app.
 
 ## Screenshots
+![](https://leiachung41.github.io/prePF/Building_the_Hometown_App/capture/page1.png)
 
 ## Motivation
 
