@@ -8,9 +8,8 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight:400,700" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="responsive.css">
 </head>
 <body>
 
@@ -42,7 +41,6 @@
         <section class="content">
             <section class="hero">
                 <article class="description">
-                    <img class="trump" src="images/trumpnafta.jpg" alt="trumpnafta">
                     <h2><a href="https://www.thestar.com/news/world/2017/08/23/trump-well-end-up-probably-terminating-nafta.html">Trump: ‘We’ll end up probably terminating NAFTA’</a></h2>
                     <p>"Personally, I don’t think we can make a deal," the U.S. President told a campaign-style rally in Arizona. "Because we have been so badly taken advantage of. They have made such great deals — both of the countries, but in particular Mexico — that I don’t think we can make a deal."</p>
                 </article>
@@ -200,9 +198,10 @@
             </ul>
         </footer>
     </main>
-
     <script>
-      /* Open the drawer when the menu ison is clicked. */
+      /*
+       * Open the drawer when the menu ison is clicked.
+       */
       var menu = document.querySelector('#menu');
       var main = document.querySelector('main');
       var drawer = document.querySelector('.nav');
@@ -214,7 +213,7 @@
       main.addEventListener('click', function() {
         drawer.classList.remove('open');
       });
+
     </script>
-    
 </body>
 </html>
