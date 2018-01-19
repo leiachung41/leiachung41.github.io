@@ -131,7 +131,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Random Background Image
 - Description: I praticed a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Random_Background_Image/random_bg_image.html" target="_blank">Random Background Image</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 
 #### Reloadless Music App
