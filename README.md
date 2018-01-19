@@ -12,14 +12,14 @@ file (a copy of the text in it). I recreated it with HTML.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article" target="_blank">prePF/Mockup_to_Article/</a>
 
 #### Animal Trading Cards
-- Description: 
+- Description:
 This project is re-creating a webpage from a design prototype. I was given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
 - Key Points: HTML, CSS
 - Final Result: <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/index.html" target="_blank">Animal Trading Cards</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
 
 #### Build a Portfolio Site
-- Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects. 
+- Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
 - Key Points: HTML, CSS, Grunt, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
@@ -63,13 +63,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 
 #### Find your Future Home
-- Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want. 
+- Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want.
 - Key Points: HTML, CSS, JavaScript, jQuery, Google Maps API
 - Final Result: <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 
 #### Building the Hometown App
-- Description: This application is about hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017. 
+- Description: This application is about hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017.
 - Key Points: HTML, CSS, JavaScript, jQuery, Grunt, Responsive web
 - Final Result: <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
@@ -89,7 +89,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Mansonry Layout
 - Description: I praticed mansonry layout a.k.a. pinterest style. I refered <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
 - Key Points: HTML, CSS, Pinterest style layout
-- Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/mansonry_layout.html" target="_blank">Mansonry Layout</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/index.html" target="_blank">Mansonry Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
 
 #### Tree View
@@ -135,7 +135,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 
 #### Reloadless Music App
-- Description: I praticed Reloadless Music App. It is working without reload the music app and just partly changing. 
+- Description: I praticed Reloadless Music App. It is working without reload the music app and just partly changing.
 - Key Points: HTML, CSS, JavaScript, jQuery
 - Final Result: <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/page1.html" target="_blank">Reloadless Music App</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless_Music_App/</a>
