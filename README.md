@@ -113,13 +113,13 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Thumbnail
 - Description: I made thumbnails using css featured border and background-image. I turn this original <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">picture</a> into 4 types of thumbnails.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/thumbnail.html" target="_blank">Thumbnail</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 
 #### Templated Visualize
 - Description: I praticed a visualize and responsive site and refered <a href="https://templated.co/visualize" target="_blank">Templated</a>.
 - Key Points: HTML, CSS, JavaScript, jQuery
-- Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index2.html" target="_blank">Templated Visualize</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
 
 #### Parallax
