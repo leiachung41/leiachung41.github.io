@@ -22,5 +22,5 @@ HTML, CSS
 
 ## How to use?
 
-- If you clicked text with icon hand paper, it can show and hide contents. 
-
+  - If you clicked text with icon hand paper, it can hide contents and change the icon into hand grab. 
+  - If you clicked text with icon hand grab, it can show contents and change the icon into hand paper.  
