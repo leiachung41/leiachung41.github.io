@@ -101,7 +101,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Link Button
 - Description: I praticed link button. I used css that featured transform and transition.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Link_Button/link_button.html" target="_blank">Link Button</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Link_Button/index.html" target="_blank">Link Button</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF/Link_Button/</a>
 
 #### Holy Grail Layout
