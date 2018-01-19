@@ -22,6 +22,7 @@ HTML, CSS, JavaScript, jQuery
 
 ## How to use?
 
-- 
+  - If you click a picture, it is showed larger size.
+  - If you resize a window, it will automatically fit the window size.
 
 
