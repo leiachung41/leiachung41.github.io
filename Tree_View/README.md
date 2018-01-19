@@ -1,12 +1,26 @@
-# 
+# Project: Tree View
 
-## How to build?
+## Description
 
-## What I build?
+I praticed tree view UI without Javascript. 
 
-## How to download it?
+## Features
 
-## How to use it?
+I just used html and css that featured selector and label.
 
-## References
+## Built with
+
+HTML, CSS
+
+## Installation
+
+1. You can download the repository from
+[prePF/Tree_View/](https://github.com/leiachung41/prePF/tree/master/Tree_View/).
+2. Find a index.html file in the repository, and open the index.html file in a browser.
+
+*Or you can connect to the application via online here [Tree View](https://leiachung41.github.io/prePF/Tree_View/index.html).*
+
+## How to use?
+
+- If you clicked text with icon hand paper, it can show and hide contents. 
 
