@@ -107,7 +107,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Holy Grail Layout
 - Description: I praticed holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/holygrail.html" target="_blank">Holy Grail Layout</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 
 #### Thumbnail
