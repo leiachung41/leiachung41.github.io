@@ -125,7 +125,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Parallax
 - Description: I praticed a parallax site and refered <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css featured that background and transform.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Parallax/parallax.html" target="_blank">Parallax</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Parallax/index.html" target="_blank">Parallax</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
 
 #### Random Background Image
