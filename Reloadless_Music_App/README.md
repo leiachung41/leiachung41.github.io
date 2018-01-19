@@ -22,6 +22,6 @@ HTML, CSS, JavaScript, jQuery
 
 ## How to use?
 
-  -  If you play the music and click the page2, the music is not stopping and the site is not refreshing.
+  -  If you play or stop the music and at the same time click the page2, the music is not stopping or replaying and the site is not refreshing.
 
 
