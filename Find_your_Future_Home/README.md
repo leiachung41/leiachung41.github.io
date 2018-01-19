@@ -27,6 +27,3 @@ HTML, CSS, JavaScript, jQuery, Google Maps API
   - Zoom: If you want to zoom a certain area, you can type the area and it shows and zooms on the map.
   - Within Go: If you choose time and transportation and enter the specific address, it shows candidate homes which meets your requirement. Infowindow shows how long dows it take and how far is it. Also you can see the route by view route button. 
   - Search Go: If you type a specific place and around area, it shows places on the map.
-
-## References
-
