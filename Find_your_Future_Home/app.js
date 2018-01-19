@@ -521,7 +521,7 @@ function searchWithinTime() {
       origins: origins,
       destinations: [destination],
       travelMode: google.maps.TravelMode[mode],
-      unitSystem: google.maps.UnitSystem.IMPERIAL,
+      unitSystem: google.maps.UnitSystem.METRIC,
     }, function(response, status) {
       if (status !== google.maps.DistanceMatrixStatus.OK) {
         window.alert('Error was: ' + status);
