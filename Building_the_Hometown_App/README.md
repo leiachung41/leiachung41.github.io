@@ -31,4 +31,4 @@ HTML, CSS, JavaScript, jQuery, Grunt, Responsive web
 
 ## References
 
-All articles from thestar.com and they were written by Aug. 23, 2017.
+All articles from [thestar.com](https://www.thestar.com/) and they were written by Aug. 23, 2017.
