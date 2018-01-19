@@ -2,13 +2,19 @@
 
 ## Description
 
-I praticed mansonry layout a.k.a. pinterest style. I refered <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
+I praticed mansonry layout a.k.a. pinterest style. 
 
 ## Motivation
 
+I refered [Pure CSS Pinterest Columnar Layout (by Dudley Storey)](https://codepen.io/dudleystorey/full/yqrhw).
+
 ## Features
 
+I used multi column feature in CSS.
+
 ## Building
+
+HTML, CSS, Pinterest style layout
 
 ## Installation
 
@@ -20,5 +26,5 @@ I praticed mansonry layout a.k.a. pinterest style. I refered <a href="https://co
 
 ## Usage
 
-## References
+
 
