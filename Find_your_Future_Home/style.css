@@ -1,0 +1,47 @@
+html, body {
+  font-family: Arial, sans-serif; height: 100%; margin: 0; padding: 0;
+}
+.container {
+  height: 100%; position: relative;
+}
+input {
+  font-size: 12px;
+}
+h1 {
+  color: #525454; font-size: 20px; margin: 5px 0;
+}
+#hide-listings, #show-listings {
+  width: 40%; border-radius: 2px;
+}
+hr {
+  background: #D0D7D9; height: 1px; margin: 5px 0; border: none;
+}
+#map {
+  bottom:0px; height: 100%; left: 362px; position: absolute; right: 0px;
+}
+.options-box {
+  background: #fff; border: 1px solid #999; border-radius: 3px;
+  height: 100%; line-height: 35px; padding: 10px 10px 30px 10px;
+  text-align: left; width: 340px;
+}
+#pano {
+  width: 200px; height: 200px;
+}
+.text {
+  font-size: 15px;
+}
+#toggle-drawing {
+  width: 33%; position: relative; text-align: center; border-radius: 1px;
+}
+#zoom-to-area-text, #search-within-time-text, #places-search {
+  position: relative; width: 95%;
+}
+#zoom-to-area, #max-duration, #mode, #search-within-time, #go-places {
+  width: 30%; border-radius: 1px;
+}
+#mode {
+  width: 33%;
+}
+#zoom-to-area, #search-within-time, #go-places {
+  width: 20%;
+}
