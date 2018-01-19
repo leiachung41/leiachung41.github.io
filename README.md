@@ -95,7 +95,7 @@ This project is re-creating a webpage from a design prototype. I was given a <a 
 #### Tree View
 - Description: I praticed tree view UI without Javascript. I just used html and css that featured selector and label.
 - Key Points: HTML, CSS
-- Final Result: <a href="https://leiachung41.github.io/prePF/Tree_View/tree.html" target="_blank">Tree View</a>
+- Final Result: <a href="https://leiachung41.github.io/prePF/Tree_View/index.html" target="_blank">Tree View</a>
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Tree_View/" target="_blank">prePF/Tree_View/</a>
 
 #### Link Button
