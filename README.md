@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> pre) Lea's Portfolio </h1>
 <h3 style="text-align: right;"> leachung41@gmail.com <br> 416-876-9367 </h3>
 
-### Hello, This is Lea's Portfolio. The whole project is making or editing by Lea Chung. Some of them are from *Udacity: Front-End Web Developer Nanodegree Program* and others projects are practicing myself while I studied myself via _ **several online sources** _.
+### Hello, This is Lea's Portfolio. The whole project is making or editing by Lea Chung. Some of them are from *Udacity: Front-End Web Developer Nanodegree Program* and others projects are practicing myself while I studied myself via _**several online sources**_.
 
 ## 1. Neighbourhood Map
 - Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
