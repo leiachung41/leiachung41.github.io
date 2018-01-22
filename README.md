@@ -1,7 +1,7 @@
-# <h1 style="text align: center;"> pre) Lea's Portfolio </h1>
+<h1 style="text align: center;"> pre) Lea's Portfolio </h1>
 
-### <h3 style="text align: right;"> leachung41@gmail.com </h3>
-### <h3 style="text align: right;"> 416-876-9367 </h3>
+<h3 style="text align: right;"> leachung41@gmail.com </h3>
+<h3 style="text align: right;"> 416-876-9367 </h3>
 
 ## Hello, This is Lea's Portfolio. The whole project is making or editing by Lea Chung. Some of them are from **Udacity: Front-End Web Developer Nanodegree Program** and others projects are practicing myself while I studied myself via several online sources.
 
