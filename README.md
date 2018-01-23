@@ -3,11 +3,11 @@
 
 ### Hello, This is Lea's Portfolio. The whole project is making or editing by Lea Chung. Some of them are from <span style="font-style: italic; font-weight:600;"> Udacity: Front-End Web Developer Nanodegree Program </span> and others projects are practicing myself while I studied myself via <span style="font-style: italic; font-weight:600;"> several online sources </span>.
 
-## 1. Neighbourhood Map
-- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
-- Key Points: HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web
-- Final Result: <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
+## 1. <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
+- Key Points: **HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
+- Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.
+
 
 ## 2. Classic Arcade Game Clone
 - Description: In this project, I built my own arcade game like Frogger Game. I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.
