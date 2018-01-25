@@ -1,5 +1,5 @@
-<h1 style="text-align: center;"> Lea's Portfolio </h1>
-<h3 style="text-align: right;"> leachung41@gmail.com <br> 416-876-9367 </h3>
+<h1 style="text-align: center;">Lea's Portfolio</h1>
+<h3 style="text-align: right;">leachung41@gmail.com<br>416-876-9367</h3>
 
 Hello, this whole project is making or editing by Lea Chung. Some of them are from <span style="font-style: italic; font-weight:600;"> Udacity: Front-End Web Developer Nanodegree Program </span> and others projects are practicing myself while I studied myself via <span style="font-style: italic; font-weight:600;"> several online sources </span>. 
 
