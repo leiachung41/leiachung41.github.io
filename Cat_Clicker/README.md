@@ -9,7 +9,7 @@ This project is consist of 5 versions of cat clicker. It is a simple application
   - The former 3 versions are I developed it from scratch. I used just simple javascript function to made. 
   - Then latter 2 premium versions are I used MVO pattern to program.
 
-## Building
+## Built with
 
 HTML, CSS, JavaScript, jQuery, MVO pattern
 
@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, jQuery, MVO pattern
 
 *Or you can connect to the application via online here [Cat Clicker](https://leiachung41.github.io/prePF/Cat_Clicker/index.html).*
 
-## Usage
+## How to use?
   - Cat Clicker V1: There is one cat and it can counts how many times you clicked.
   - Cat Clicker V2: There are two cats and it can counts how many times you clicked each cat.
   - Cat Clicker V3: There are five cats and you can choose cat by name. If you choose a cat, it shows cat's picture and name then it can counts how many times you clicked each cat.
