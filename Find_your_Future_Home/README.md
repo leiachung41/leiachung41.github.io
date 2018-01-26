@@ -8,7 +8,7 @@ This is application featuring a kind of real estate map. I used Google Maps API 
 
 It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want.
 
-## Building
+## Built with
 
 HTML, CSS, JavaScript, jQuery, Google Maps API
 
@@ -20,7 +20,7 @@ HTML, CSS, JavaScript, jQuery, Google Maps API
 
 *Or you can connect to the application via online here [Find your Future Home](https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html).*
 
-## Usage
+## How to use?
 
   - Show Listing/ Hide Listing: It shows and hides potential home listings by clicking each button.
   - Drawing Tools: If you click this button, you can draw a polygon that your desire area on the map. Once you done drawing, it shows homes inside the polygon area.
