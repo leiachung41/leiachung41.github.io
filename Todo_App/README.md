@@ -12,8 +12,7 @@ This is the sample [todos](http://todomvc.com/examples/backbone/) site using Bac
 
 I modified some featured this [basic todo app](https://leiachung41.github.io/prePF/Todo_App/before/index.html). 
 
-## Building
-
+## Built with
 HTML, JavaScript, BackboneJS, MVC pattern
 
 ## Installation
@@ -24,7 +23,7 @@ HTML, JavaScript, BackboneJS, MVC pattern
 
 *Or you can connect to the application via online here [Todo App](https://leiachung41.github.io/prePF/Todo_App/index.html).*
 
-## Usage
+## How to use?
 
   - When you make a todo list and it is done, you can see what is done or not.
   - You can make a highlight, edit or delete feture on the list.
