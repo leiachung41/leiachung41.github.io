@@ -8,7 +8,7 @@ I praticed link button.
 
 I used css that featured transform and transition.
  
-## Building
+## Built with
 
 HTML, CSS
 
@@ -20,7 +20,7 @@ HTML, CSS
 
 *Or you can connect to the application via online here [Link Button](https://leiachung41.github.io/prePF/Link_Button/index.html).*
 
-## Usage
+## How to use?
 
   - If you click the button, it seems like clicked movement. 
 
