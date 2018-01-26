@@ -12,7 +12,7 @@ I refered [Pure CSS Pinterest Columnar Layout (by Dudley Storey)](https://codepe
 
 I used multi column feature in CSS.
 
-## Building
+## Built with
 
 HTML, CSS, Pinterest style layout
 
@@ -24,7 +24,7 @@ HTML, CSS, Pinterest style layout
 
 *Or you can connect to the application via online here [Mansonry Layout](https://leiachung41.github.io/prePF/Mansonry_Layout/index.html).*
 
-## Usage
+## How to use?
 
-
+If you resize the window, it automatically fits and reorganizes the items.
 
