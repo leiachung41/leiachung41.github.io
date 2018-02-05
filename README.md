@@ -30,7 +30,9 @@ Hello, this whole projects are maintained by Lea Chung.
 ## 4. <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Key Points: **HTML, JacaScript, OOJ**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
-- Description: In this project, I built my own arcade game like Frogger Game. I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.
+- Description: In this project, I built my own arcade game like Frogger Game. I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. 
+
+(I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.)
 
 ## 5. <a href="https://leiachung41.github.io/FeedReader-Testing/" target="_blank">Feed Reader Testing</a>
 - Key Points: **HTML, JavaScript, jQuery, JasmineJS**
