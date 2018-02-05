@@ -91,11 +91,27 @@ work.display = function() {
 var projects = {
     "projects" : [
         {
-            "title" : "Build a Portfolio Site",
-            "dates" : "Sep 2017",
-            "description" : "▶ You will be provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS.",
+            "title" : "Neighbourhood Map",
+            "dates" : "Dec 2017",
+            "description" : "▶ I will develop a single-page application featuring a map of my neighbourhood or a neighbourhood I would like to visit.",
             "images" : [
-                "img/portfolio.jpg"
+                "img/neighbourhood.png"
+            ]
+        },
+        {
+            "title" : "Website Optimization",
+            "dates" : "Nov 2017",
+            "description" : "▶ I will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
+            "images" : [
+                "img/optimization.png"
+            ]
+        },
+        {
+            "title" : "Classic Arcade Game Clone",
+            "dates" : "Nov 2017",
+            "description" : "▶ In this project, I built my own arcade game like Frogger Game.",
+            "images" : [
+                "img/arcade.png"
             ]
         }
     ]
