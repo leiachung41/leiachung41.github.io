@@ -67,7 +67,7 @@ Hello, this whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 - Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. 
 
-(It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want.(
+(It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want.)
 
 ## 11. <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
