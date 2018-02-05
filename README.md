@@ -72,7 +72,9 @@ Hello, this whole projects are maintained by Lea Chung.
 ## 11. <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
-- Description: This project is consist of 5 versions of cat clicker. It is simple application that when you clicked the cat, it counted clicks. It saved click counts and showed in the application. First 3 versions are I developed it from scratch. I used just simple javascript function to made these. Second 2 premiun versions are I used MVO pattern to program these.
+- Description: This project is consist of 5 versions of cat clicker. It is a simple application that when you clicks a cat, it counts the cat's clicks. Also, It saves click counts and shows in the application. 
+
+(First 3 versions are I developed it from scratch. I used just simple javascript function to made these. Second 2 premiun versions are I used MVO pattern to program these.)
 
 
 ## 12. <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
