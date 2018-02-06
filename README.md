@@ -11,35 +11,25 @@ Hello, this whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 - Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content. 
 
-(I used a skill that design patterns assist in developing a manageable codebase.  Also, I used frameworks that it can decrease the time required developing an application and provide a number of utilities.)
-
 ## 2. <a href="https://leiachung41.github.io/prePF/Online_Resume/index.html" target="_blank">Online Resume</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, DOM**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Online_Resume/" target="_blank">prePF/Online_Resume/</a>
 - Description: For this project, I built my resume by writing <a href="https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS" target="_blank">style.css</a> templates to generate my resume. 
-
-(I used skills that I learned basic JavaScript syntax, which includes manipulating data, building loops and creating functions. At the same time, I used some simple jQuery DOM manipulation methods.)
 
 ## 3. <a href="https://leiachung41.github.io/Web-Optimization/" target="_blank">Website Oprimization</a>
 - Key Points: **HTML, CSS, JavaScript, Grunt, ngrok, json, Google Page Speed Insights, Chrome Developer Tools**
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 - Description: In this project, I optimized a <a href="https://github.com/udacity/frontend-nanodegree-mobile-portfolio" target="_blank">provided website</a> with a number of optimization and performance related issues so that it achieved a target PageSpeed score of at least 90 for index.html both Mobile and Desktop version and runs at 60 frames per second. 
 
-(In this project, I optimized a <a href="https://github.com/udacity/frontend-nanodegree-mobile-portfolio" target="_blank">provided website</a> with a number of optimization and performance related issues using critical rendering path, the process by which the browser receives HTML, CSS and JavaScript and the required processing to turn them into rendered pixels. I achieved a PageSpeed score of at least 90 for index.html both Mobile and Desktop version. I Optimized to <a href="https://github.com/leiachung41/Web-Optimization/blob/master/views/js/main.js" target="_blank">views/js/main.js</a> make <a href="https://leiachung41.github.io/Web-Optimization/views/pizza.html" target="_blank">views/pizza.html</a> render with a consistent frame-rate at 60fps when scrolling. Also, I reduced time to resize pizzas is less than 5 ms using the pizza size slider on the <a href="https://leiachung41.github.io/Web-Optimization/views/pizza.html" target="_blank">views/pizza.html</a> page. (Resize time is shown in the browser developer tools.))
-
 ## 4. <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Key Points: **HTML, JacaScript, OOJ**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
 - Description: In this project, I built my own arcade game like Frogger Game. I am given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger. 
 
-(I used JavaScript’s object oriented programming features to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Furthermore, I discovered a variety of ways inheritance and delegation can be used to create well architected and performant applications.)
-
 ## 5. <a href="https://leiachung41.github.io/FeedReader-Testing/" target="_blank">Feed Reader Testing</a>
 - Key Points: **HTML, JavaScript, jQuery, JasmineJS**
 - Github folder: <a href="https://github.com/leiachung41/FeedReader-Testing" target="_blank">Feed_Reader_Testing/</a>
 - Description: In this project, I am given a web-based application (<a href="https://leiachung41.github.io/FeedReader-Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/FeedReader-Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. 
-
-(I used Jasmine to write a number of tests against a pre-existing application. I tested the underlying business logic of the application as well as the event handling and DOM manipulation.)
 
 ## 6. <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
@@ -61,21 +51,15 @@ Hello, this whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 - Description: I praticed a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
 
-
 ## 10. <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 - Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. 
 
-(It included that several home listings and it can show and hide by its button. It can draw a shape to search within it for homes. When you enter you favorite area, it can zoom the area. It featured that finding ideal homes by commuting a certain spot. Also, it can search for nearby places you want.)
-
 ## 11. <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
 - Description: This project is consist of 5 versions of cat clicker. It is a simple application that when you clicks a cat, it counts the cat's clicks. Also, It saves click counts and shows in the application. 
-
-(First 3 versions are I developed it from scratch. I used just simple javascript function to made these. Second 2 premiun versions are I used MVO pattern to program these.)
-
 
 ## 12. <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Key Points: **HTML, CSS, Grunt, Responsive web**
