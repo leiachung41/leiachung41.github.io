@@ -34,35 +34,32 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 6. <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless_Music_App/</a>
-- Description: 
-
-
-I praticed Reloadless Music App. It is working without reload the music app and just partly changing.
+- Description: I praticed javascript skill to work without reload the music app and just partly changing.
 
 ## 7. <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
-- Description: I praticed a visualize and responsive site and refered <a href="https://templated.co/visualize" target="_blank">Templated</a>.
+- Description: This is pratice on a visualize and responsive site and refered <a href="https://templated.co/visualize" target="_blank">Templated</a>.
 
 ## 8. <a href="https://leiachung41.github.io/prePF/Parallax/index.html" target="_blank">Parallax</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
-- Description: I praticed a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I refered <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css featured that background and transform.
+- Description: This is pratice on a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I refered <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css featured that background and transform.
 
 ## 9. <a href="https://leiachung41.github.io/prePF/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
-- Description: I praticed a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
+- Description: This is pratice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
 
 ## 10. <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
-- Description: This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. 
+- Description: This is a single-page application featuring real estate finder. I used Google Maps API functions to develop this application. 
 
 ## 11. <a href="https://leiachung41.github.io/prePF/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Cat_Clicker/" target="_blank">prePF/Cat_Clicker/</a>
-- Description: This project is consist of 5 versions of cat clicker. It is a simple application that when you clicks a cat, it counts the cat's clicks. Also, It saves click counts and shows in the application. 
+- Description: This project consists of 5 versions of cat clicker. It is a simple application that when you clicks a cat, it counts the cat's clicks. Also, It saves click counts and shows in the application. 
 
 ## 12. <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Key Points: **HTML, CSS, Grunt, Responsive web**
@@ -82,7 +79,7 @@ I praticed Reloadless Music App. It is working without reload the music app and 
 ## 15. <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Grunt, Responsive web**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
-- Description: This application is about hometown app. I developed it as a result of pratice reponsive web like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. I used css media queries feature for reponsive web. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017.
+- Description: This is a responsive web for a hometown app as a result of pratice like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017.
 
 ## 16. <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/index.html" target="_blank">Mansonry Layout</a>
 - Key Points: **HTML, CSS, Pinterest style layout**
@@ -118,9 +115,3 @@ I praticed Reloadless Music App. It is working without reload the music app and 
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 - Description: I made thumbnails using css featured border and background-image. I turn this original <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">picture</a> into 4 types of thumbnails.
-
-## 23. <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/index.html" target="_blank">Mockup to Article</a>
-- Key points: **HTML**
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article" target="_blank">prePF/Mockup_to_Article/</a>
-- Description: This project is translating a mockup to HTML. I was given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
-file (a copy of the text in it). I recreated it with HTML.
