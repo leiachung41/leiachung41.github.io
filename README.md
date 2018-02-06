@@ -69,12 +69,12 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 13. <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Key Points: **HTML, JavaScript, BackboneJS, MVC pattern**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
-- Description: I praticed MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a>site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some featured this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
+- Description: This is pratice on MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a>site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some featured this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
 
 ## 14. <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mojs</a>
 - Key Points: **HTML, JavaScript, Mojs**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
-- Description: I praticed Mojs <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is motion graphic javascript library.
+- Description: This is pratice on Mojs <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is motion graphic javascript library.
 
 ## 15. <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Grunt, Responsive web**
@@ -84,22 +84,22 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 16. <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/index.html" target="_blank">Mansonry Layout</a>
 - Key Points: **HTML, CSS, Pinterest style layout**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Mansonry_Layout/</a>
-- Description: I praticed mansonry layout a.k.a. pinterest style. I refered <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
+- Description: This is pratice on mansonry layout a.k.a. pinterest style. I refered <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
 
 ## 17. <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">My Responsive Blog</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Responsive web**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
-- Description: This is responsive blog. I developed it as a result of pratice reponsive blog like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. I used the picture element for art direction: different image crops are loaded, depending on viewport size.
+- Description: This is a responsive blog I developed it as a result of pratice like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. I used the picture element for art direction: different image crops are loaded, depending on viewport size.
 
 ## 18. <a href="https://leiachung41.github.io/prePF/Tree_View/index.html" target="_blank">Tree View</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Tree_View/" target="_blank">prePF/Tree_View/</a>
-- Description: I praticed tree view UI without Javascript. I just used html and css that featured selector and label.
+- Description: I created tree view UI without Javascript. I just used html and css that featured selector and label.
 
 ## 19. <a href="https://leiachung41.github.io/prePF/Link_Button/index.html" target="_blank">Link Button</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF/Link_Button/</a>
-- Description: I praticed link button. I used css that featured transform and transition.
+- Description: I made link button using css featured transform and transition.
 
 ## 20. <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/index.html" target="_blank">Animal Trading Cards</a>
 - Key Points: **HTML, CSS**
