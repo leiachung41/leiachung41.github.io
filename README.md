@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">Lea's Portfolio</h1>
 <h3 style="text-align: right;">leachung41@gmail.com<br>416-876-9367</h3>
 
-Hello, this whole projects are maintained by Lea Chung.
-<br>Some projects are doing when I took <span style="font-style: italic; font-weight:600;">Udacity: Front-End Web Developer Nanodegree Program</span> and other projects are practicing myself while I studied myself via <span style="font-style: italic; font-weight:600;">several online sources</span>.
+Hello, these whole projects are maintained by Lea Chung.
+<br>Some projects were done when I was taking <span style="font-style: italic; font-weight:600;">Udacity: Front-End Web Developer Nanodegree Program</span> and other projects are practices while I was studying myself via <span style="font-style: italic; font-weight:600;">several online sources</span>.
 
 ** If you click the title of the project, you can see the final result.
 
@@ -16,7 +16,7 @@ Hello, this whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Online_Resume/" target="_blank">prePF/Online_Resume/</a>
 - Description: For this project, I built my resume by writing <a href="https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS" target="_blank">style.css</a> templates to generate my resume. 
 
-## 3. <a href="https://leiachung41.github.io/Web-Optimization/" target="_blank">Website Oprimization</a>
+## 3. <a href="https://leiachung41.github.io/Web-Optimization/" target="_blank">Website Optimization</a>
 - Key Points: **HTML, CSS, JavaScript, Grunt, ngrok, json, Google Page Speed Insights, Chrome Developer Tools**
 - Github folder: <a href="https://github.com/leiachung41/Web-Optimization" target="_blank">leiachung41/Web-Optimization</a>
 - Description: In this project, I optimized a <a href="https://github.com/udacity/frontend-nanodegree-mobile-portfolio" target="_blank">provided website</a> with a number of optimization and performance related issues so that it achieved a target PageSpeed score of at least 90 for index.html both Mobile and Desktop version and runs at 60 frames per second. 
@@ -29,12 +29,15 @@ Hello, this whole projects are maintained by Lea Chung.
 ## 5. <a href="https://leiachung41.github.io/FeedReader-Testing/" target="_blank">Feed Reader Testing</a>
 - Key Points: **HTML, JavaScript, jQuery, JasmineJS**
 - Github folder: <a href="https://github.com/leiachung41/FeedReader-Testing" target="_blank">Feed_Reader_Testing/</a>
-- Description: In this project, I am given a web-based application (<a href="https://leiachung41.github.io/FeedReader-Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/FeedReader-Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application has an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. 
+- Description: In this project, I was given a web-based application (<a href="https://leiachung41.github.io/FeedReader-Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leiachung41/FeedReader-Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application had an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework. 
 
 ## 6. <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless_Music_App/</a>
-- Description: I praticed Reloadless Music App. It is working without reload the music app and just partly changing.
+- Description: 
+
+
+I praticed Reloadless Music App. It is working without reload the music app and just partly changing.
 
 ## 7. <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
