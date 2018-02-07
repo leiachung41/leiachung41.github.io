@@ -2,11 +2,7 @@
 
 ## Description
 
-This is pratice on a parallax scrolling site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I refered [before parallax scrolling desigin](https://codepen.io/egoing/pen/yaKvPd?editors=1100).
-
-## Features
-
-I used css featured that background and transform.
+This is pratice on a parallax scrolling site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I refered [before parallax scrolling desigin](https://codepen.io/egoing/pen/yaKvPd?editors=1100). I used css featured that background and transform.
 
 ## Built with
 
