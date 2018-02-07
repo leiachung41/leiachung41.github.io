@@ -2,15 +2,7 @@
 
 ## Description
 
-I praticed mansonry layout a.k.a. pinterest style. 
-
-## Motivation
-
-I refered [Pure CSS Pinterest Columnar Layout (by Dudley Storey)](https://codepen.io/dudleystorey/full/yqrhw).
-
-## Features
-
-I used multi column feature in CSS.
+This is pratice mansonry layout a.k.a. pinterest style. I refered [Pure CSS Pinterest Columnar Layout (by Dudley Storey)](https://codepen.io/dudleystorey/full/yqrhw) and used multi column feature in CSS.
 
 ## Built with
 
@@ -26,5 +18,5 @@ HTML, CSS, Pinterest style layout
 
 ## How to use?
 
-If you resize the window, it automatically fits and reorganizes the items.
+  - If you resize the window, it automatically fits and reorganizes the items.
 
