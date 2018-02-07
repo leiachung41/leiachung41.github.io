@@ -2,15 +2,7 @@
 
 ## Description
 
-This application is about hometown app.
-
-## Motivation
-
-I developed it as a result of pratice reponsive web like this [index.html](https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html).
-
-## Features
-
-I used css media queries feature for reponsive web.
+This is a responsive web for a toronto hometown app as a result of pratice like this [index.html](https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html). The app consists of top news, latest news, sports and weather sections. I used css media queries feature for reponsive web.
 
 ## Built with
 
