@@ -1,21 +1,18 @@
-# Project Overview
-Hey there, web developer! Congratulations on making it this far! Here's your next project: **translating a mockup to HTML**. This is similar to the exercise from earlier in the problem set, except this article is going to be a bit more complicated. I'll be giving you a mockup of a website (and a copy of the text in it). It's going to be your job to recreate it with HTML.
+# Project: Mockup to Article
 
-You're going to see some formatting you haven't encountered before, so you'll need to use a resource, like the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">MDN element reference</a>, to research new elements. 
+## Description
 
-# Project Instructions
-Review the Article to Mockup <a href="https://github.com/leiachung41/prePF/blob/master/Mockup_to_Article/rubric.pdf" target="_blank">Project Rubric</a>. You'll get a rubric with every project in your Nanodegree program. Be sure to review the rubric before you submit each project so that you understand what criteria you'll be graded on. If you don't "Meet Specifications" on every rubric item, you'll always have a chance to submit the project again.
+This project is translating a mockup to HTML. I was given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
+file (a copy of the text in it). I recreated it with HTML.
 
-1. Download and unzip `mockup-to-article.zip` in the Supporting Materials section, below. You'll find `index.html`, the article mockup image (`blog-mockup.pdf`) and a file called `reflections.txt` inside.
+## Built with
 
-2. Use what you've learned about web development so far to edit `index.html` so that it looks exactly like the mockup image. You will need to use new elements, which means that you'll need to <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">research</a> and experiment! (Hint: look up "superscript," "horizontal rule," and "strikethrough."). Note: You can recreate the mockup without using a single `<br>` tag! You don't need to worry about line breaks. The text should naturally wrap depending on how wide the window is.
+HTML
 
-3. When you've finished building the article, open up` reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
-  
-    1. What new skills have you learned?
-    2. What has been easy?
-    3. What has been difficult?
-    4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+## Installation
 
-## Supporting Materials
-- [mockup-to-article.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58501f5b_mockup-to-article/mockup-to-article.zip)
+1. You can download the repository from
+[prePF/Mockup_to_Article/](https://github.com/leiachung41/prePF/tree/master/Mockup_to_Article/).
+2. Find a index.html file in the repository, and open the index.html file in a browser.
+
+*Or you can connect to the application via online here [Tree View](https://leiachung41.github.io/prePF/Mockup_to_Article/index.html).*
