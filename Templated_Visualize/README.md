@@ -2,11 +2,7 @@
 
 ## Description
 
-I praticed a visualize and responsive site.
-
-## Motivation
-
-I refered [Templated](https://templated.co/visualize).
+This is pratice on a visualize and responsive site and refered [Templated](https://templated.co/visualize).
 
 ## Built with
 
