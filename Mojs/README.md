@@ -1,12 +1,12 @@
-# Project: Mojs
+# Project: Mo.js
 
 ## Description
 
-I praticed Mojs [Mothion for the web](http://mojs.io/) that is motion graphic javascript library.
+This is pratice on Mo.js <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is a JavaScript library devoted to motion for the web. It offers a declarative syntax motion and the creation of elements for animation.
 
 ## Built with
 
-HTML, JavaScript, Mojs
+HTML, JavaScript, Mo.js
 
 ## Installation
 
@@ -14,7 +14,7 @@ HTML, JavaScript, Mojs
 [prePF/Mojs/](https://github.com/leiachung41/prePF/tree/master/Mojs/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Mojs](https://leiachung41.github.io/prePF/Mojs/index.html).*
+*Or you can connect to the application via online here [Mo.js](https://leiachung41.github.io/prePF/Mojs/index.html).*
 
 ## How to use?
 
