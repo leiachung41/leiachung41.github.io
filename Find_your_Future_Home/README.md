@@ -2,7 +2,7 @@
 
 ## Description
 
-This is application featuring a kind of real estate map. I used Google Maps API functions to develop this application. 
+This is a single-page application featuring real estate finder. I used Google Maps API functions to develop this application. 
 
 ## Features
 
