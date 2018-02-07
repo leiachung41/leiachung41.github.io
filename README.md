@@ -104,7 +104,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 20. <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
-- Description: I praticed holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
+- Description: This is pratice on holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
 
 ## 21. <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Key Points: **HTML, CSS**
