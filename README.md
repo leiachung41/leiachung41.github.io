@@ -101,17 +101,12 @@ Hello, these whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF/Link_Button/</a>
 - Description: I made link button using css featured transform and transition.
 
-## 20. <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/index.html" target="_blank">Animal Trading Cards</a>
-- Key Points: **HTML, CSS**
-- Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards" target="_blank">prePF/Animal_Trading_Cards/</a>
-- Description: This project is re-creating a webpage from a design prototype. I was given a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png" target="_blank">design prototype</a> and a <a href="https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html" target="_blank">index.html</a>. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
-
-## 21. <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
+## 20. <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
 - Description: I praticed holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
 
-## 22. <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
+## 21. <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Key Points: **HTML, CSS**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
 - Description: I made thumbnails using css featured border and background-image. I turn this original <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">picture</a> into 4 types of thumbnails.
