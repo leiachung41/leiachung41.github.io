@@ -51,7 +51,7 @@ Hello, these whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Random_Background_Image" target="_blank">prePF/Random_Background_Image/</a>
 - Description: This is pratice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a backgound sorurces.
 
-## 10. <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html" target="_blank">Find your Future Home</a>
+## 10. <a href="https://leiachung41.github.io/prePF/Find_your_Future_Home/index.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/" target="_blank">prePF/Find_your_Future_Home/</a>
 - Description: This is a single-page application featuring real estate finder. I used Google Maps API functions to develop this application. 
