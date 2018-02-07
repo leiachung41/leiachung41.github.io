@@ -79,7 +79,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 15. <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Grunt, Responsive web**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
-- Description: This is a responsive web for a hometown app as a result of pratice like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. All articles from <a href="https://www.thestar.com/" target="_blank">thestar.com</a> and they were written by Aug. 23, 2017.
+- Description: This is a responsive web for a toronto hometown app as a result of pratice like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. The app consists of top news, latest news, sports and weather sections. I used css media queries feature for reponsive web. 
 
 ## 16. <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/index.html" target="_blank">Mansonry Layout</a>
 - Key Points: **HTML, CSS, Pinterest style layout**
