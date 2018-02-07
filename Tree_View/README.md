@@ -2,11 +2,7 @@
 
 ## Description
 
-I praticed tree view UI without Javascript. 
-
-## Features
-
-I just used html and css that featured selector and label.
+I created tree view UI without Javascript. I just used html and css that featured selector and label.
 
 ## Built with
 
