@@ -2,15 +2,7 @@
 
 ## Description
 
-I praticed MVC pattern using this [TodoMVC](http://todomvc.com/) site. 
-
-## Motivation
-
-This is the sample [todos](http://todomvc.com/examples/backbone/) site using BackboneJS.
-
-## Features
-
-I modified some featured this [basic todo app](https://leiachung41.github.io/prePF/Todo_App/before/index.html). 
+This is pratice on MVC pattern using this [TodoMVC](http://todomvc.com/) site. This is the sample [todos](http://todomvc.com/examples/backbone/) site using BackboneJS. I modified some featured this [basic todo app](https://leiachung41.github.io/prePF/Todo_App/before/index.html). 
 
 ## Built with
 HTML, JavaScript, BackboneJS, MVC pattern
