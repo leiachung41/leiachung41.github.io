@@ -2,11 +2,7 @@
 
 ## Description
 
-I praticed Reloadless Music App.
-
-## Features
-
-It is working without reload the music app and just partly changing.
+I praticed javascript skill to work without reload the music app and just partly changing.
  
 ## Built with
 
