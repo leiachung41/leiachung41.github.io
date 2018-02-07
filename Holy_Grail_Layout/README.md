@@ -2,15 +2,7 @@
 
 ## Description
 
-I praticed holy grail layout.
-
-## Motivation
-
-I refered [In Search of the Holy Grail](http://alistapart.com/article/holygrail). 
-
-## Features
-
-I used CSS featured that float and media query.
+This is pratice on holy grail layout and refered <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
 
 ## Built with
 
