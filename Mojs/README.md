@@ -2,7 +2,7 @@
 
 ## Description
 
-This is pratice on Mo.js <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is a JavaScript library devoted to motion for the web. It offers a declarative syntax motion and the creation of elements for animation.
+This is pratice on Mo.js that is a JavaScript library devoted to <a href="http://mojs.io/" target="_blank">Mothion for the web</a>. It offers a declarative syntax motion and the creation of elements for animation.
 
 ## Built with
 
