@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, jQuery, Google Maps API
 [prePF/Find_your_Future_Home/](https://github.com/leiachung41/prePF/tree/master/Find_your_Future_Home/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Find your Future Home](https://leiachung41.github.io/prePF/Find_your_Future_Home/index12.html).*
+*Or you can connect to the application via online here [Find your Future Home](https://leiachung41.github.io/prePF/Find_your_Future_Home/index.html).*
 
 ## How to use?
 
