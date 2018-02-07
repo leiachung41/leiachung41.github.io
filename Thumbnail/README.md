@@ -2,7 +2,8 @@
 
 ## Description
 
-I made four types of thumbnails. I turned this [original picture](https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg) into thumbnails using css featured border and background-image.
+I made thumbnails using css featured border and background-image. I turned this <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">original picture</a> into 4 types of thumbnails.
+
 
 ## Built with
 
