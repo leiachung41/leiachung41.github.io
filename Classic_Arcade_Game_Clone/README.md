@@ -1,12 +1,12 @@
 # Classic Arcade Game Clone
-In this project, I've built my own arcade game like Frogger Game.
+In this project, I built my own arcade game like Frogger Game.
 
 ## Frogger Game Description
 In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
 ## How to build?
-I didn't build the game from scratch. I've provided the art assets and game engine
-[here](https://github.com/udacity/frontend-nanodegree-arcade-game). This repository contains css, images, and js folders, as well as an index.html and a README.md file. I've edited the app.js file to build the game.
+I didn't build the game from scratch. I was provided the art assets and game engine
+[here](https://github.com/udacity/frontend-nanodegree-arcade-game). This repository contains css, images, and js folders, as well as an index.html and a README.md file. I edited the app.js file to build the game.
 
 ## What I build?
 - The Enemy function:
