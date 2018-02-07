@@ -2,11 +2,7 @@
 
 ## Description
 
-I praticed a random background image site.
-
-## Features
-
-I used here [Unsplash Source](https://source.unsplash.com/) as a backgound sorurces.
+This is pratice on a random background image site and used here [Unsplash Source](https://source.unsplash.com/) as a backgound sorurces.
 
 ## Built with
 
