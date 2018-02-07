@@ -22,6 +22,6 @@ HTML, CSS, Grunt, Responsive web
 
 ## How to use?
 
-  - When you click the logo, it will link the index.html.
+  - When you click the logo, it will link the index.html.
   - It is reponsive website so it can resize and reorganize with the window size.
   - If you click the title of the featrued works, it will link their work page. 
