@@ -1,29 +1,17 @@
-# Project Overview
-Are you starting to feel like a web developer yet? You should!
+# Project: Animal Trading Cards
 
-Before you move on, I have one more challenge. I want you to use what you've learned up to this point to complete the following project. Simply titled, "Animal Trading Cards", this project combines the skills you mastered in the problem set and asks you to re-create a webpage from a design prototype.
+## Description
 
-This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated to an actual, functional website. In most cases, designers only provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film. You’ll be creating the card and swapping out the fish with an animal of your choice.
+This project is re-creating a webpage from a design prototype. I was given a design prototype and a index.html. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
 
+## Built with
 
+HTML, CSS
 
-# Project Instructions
-Review the Animal Trading Cards [project rubric](https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards/rubric.pdf).
+## Installation
 
-1. Download and unzip fend-animal-trading-cards-master.zip. Inside, you'll find `card.html`, `styles.css`, `placeholder.png`, and the `design-prototype.png`.
+1. You can download the repository from
+[prePF/Animal_Trading_Cards/](https://github.com/leiachung41/prePF/tree/master/Animal_Trading_Cards/).
+2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-2. Next, open card.html and replace the placeholder image and information with your favorite animal's image and information. For the image, you will want to use an image with a `width` of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images. Also, don't forget to change the image's `alt` attribute to the name of your animal. So, `alt="name-of-your-animal"` should be replaced with the actual name of your animal.
-
-3. Once you've added your favorite animal's image and information, add the proper CSS to `styles.css` to recreate the `design-prototype.pn`g by applying the style rules in step 4. You’ll need to modify `card.html` to include `attribute`s and use `selectors` to specify the elements you want to style. Also, make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
-
-4. The CSS should apply these styles to match the design prototype:
-  
-    1. italicized text for the animal's interesting fact
-    2. bolded labels for the animal's list items (e.g. 'Habitat')
-    3. no dots for the animal's list items
-    4. border around the animal's name, image, and information
-    5. border around the animal's information
-    6. spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
- 
-## Supporting Materials
-- [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip)
+*Or you can connect to the application via online here [Animal Trading Cards](https://leiachung41.github.io/prePF/Animal_Trading_Cards//index.html).*
