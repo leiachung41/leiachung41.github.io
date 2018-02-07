@@ -71,10 +71,10 @@ Hello, these whole projects are maintained by Lea Chung.
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 - Description: This is pratice on MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a>site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some featured this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
 
-## 14. <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mojs</a>
-- Key Points: **HTML, JavaScript, Mojs**
+## 14. <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mo.js</a>
+- Key Points: **HTML, JavaScript, Mo.js**
 - Github folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
-- Description: This is pratice on Mojs <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is motion graphic javascript library.
+- Description: This is pratice on Mo.js <a href="http://mojs.io/" target="_blank">Mothion for the web</a> that is a JavaScript library devoted to motion for the web. It offers a declarative syntax motion and the creation of elements for animation.
 
 ## 15. <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/index.html" target="_blank">Building the Hometown App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Grunt, Responsive web**
