@@ -2,11 +2,7 @@
 
 ## Description
 
-I praticed link button.
-
-## Features
-
-I used css that featured transform and transition.
+I made link button using css featured transform and transition.
  
 ## Built with
 
