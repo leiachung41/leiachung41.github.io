@@ -2,8 +2,8 @@
 
 ## Description
 
-I praticed javascript skill to work without reload the music app and just partly changing.
- 
+I practiced JavaScript skill to work without reload the music app and just partly changing.
+
 ## Built with
 
 HTML, CSS, JavaScript, jQuery
@@ -19,5 +19,3 @@ HTML, CSS, JavaScript, jQuery
 ## How to use?
 
   -  If you play or stop the music and at the same time click the page2, the music is not stopping or replaying and the site is not refreshing.
-
-

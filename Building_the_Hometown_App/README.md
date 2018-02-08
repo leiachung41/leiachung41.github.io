@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive web for a toronto hometown app as a result of pratice like this [index.html](https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html). The app consists of top news, latest news, sports and weather sections. I used css media queries feature for reponsive web.
+This is a responsive web for a Toronto hometown app as a result of practice like this [index.html](https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html). The app consists of top news, latest news, sports and weather sections. I used css media queries feature for responsive web.
 
 ## Built with
 
@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, jQuery, Grunt, Responsive web
 ## How to use?
 
   - If you adjust a window size, the contents automatically respond the size that you can comfort to read.
-  - If a window is too small, there is a hamburger menu is on the right above on the window. 
+  - If a window is too small, there is a hamburger menu is on the right above on the window.
 
 ## References
 

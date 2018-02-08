@@ -2,7 +2,7 @@
 
 ## Description
 
-This is pratice on MVC pattern using this [TodoMVC](http://todomvc.com/) site. This is the sample [todos](http://todomvc.com/examples/backbone/) site using BackboneJS. I modified some featured this [basic todo app](https://leiachung41.github.io/prePF/Todo_App/before/index.html). 
+This is practice on MVC pattern using this [TodoMVC](http://todomvc.com/) site. This is the sample [todos](http://todomvc.com/examples/backbone/) site using BackboneJS. I modified some featured this [basic todo app](https://leiachung41.github.io/prePF/Todo_App/before/index.html).
 
 ## Built with
 HTML, JavaScript, BackboneJS, MVC pattern
@@ -18,5 +18,4 @@ HTML, JavaScript, BackboneJS, MVC pattern
 ## How to use?
 
   - When you make a todo list and it is done, you can see what is done or not.
-  - You can make a highlight, edit or delete feture on the list.
-
+  - You can make a highlight, edit or delete feature on the list.

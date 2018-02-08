@@ -2,7 +2,8 @@
 
 ## Description
 
-This project is re-creating a webpage from a design prototype. I was given a design prototype and a index.html. The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
+This project is re-creating a webpage from a design prototype. I was given a [design prototype](https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/design-prototype.png) and a [index.html](https://leiachung41.github.io/prePF/Animal_Trading_Cards/before/index_B4.html). The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film. I created the card and swapped out the fish with an animal of my choice.
+
 
 ## Built with
 

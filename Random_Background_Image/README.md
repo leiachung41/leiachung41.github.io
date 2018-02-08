@@ -2,7 +2,7 @@
 
 ## Description
 
-This is pratice on a random background image site and used here [Unsplash Source](https://source.unsplash.com/) as a backgound sorurces.
+This is practice on a random background image site and used here [Unsplash Source](https://source.unsplash.com/) as a background sources.
 
 ## Built with
 
@@ -18,5 +18,4 @@ HTML, CSS
 
 ## How to use?
 
-  - If you refresh a site, the site's backgound image changes automatically.
-
+  - If you refresh a site, the site's background image changes automatically.

@@ -2,7 +2,7 @@
 
 ## Description
 
-This is responsive blog. I developed it as a result of pratice reponsive blog like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. I used the picture element for art direction: different image crops are loaded, depending on viewport size.
+This is responsive blog. I developed it as a result of practice responsive blog like this [index.html](https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html). I used the picture element for art direction: different image crops are loaded, depending on viewport size.
 
 ## Built with
 
@@ -18,4 +18,4 @@ HTML, CSS, JavaScript, jQuery, Responsive web
 
 ## How to use?
 
-  - It is reponsive website so it can resize and reorganize with the window size.  
+  - It is responsive website so it can resize and reorganize with the window size.  

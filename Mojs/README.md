@@ -2,7 +2,7 @@
 
 ## Description
 
-This is pratice on Mo.js that is a JavaScript library devoted to <a href="http://mojs.io/" target="_blank">Mothion for the web</a>. It offers a declarative syntax motion and the creation of elements for animation.
+This is practice on Mo.js that is a JavaScript library devoted to [Motion for the web](http://mojs.io/). It offers a declarative syntax motion and the creation of elements for animation.
 
 ## Built with
 
@@ -19,4 +19,3 @@ HTML, JavaScript, Mo.js
 ## How to use?
 
  - When you click anywhere on a site, circles are spreading on the clicking spot.
-

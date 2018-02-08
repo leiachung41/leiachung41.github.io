@@ -1,9 +1,8 @@
-# Project: Mockup to Article
+# Project: Mock-up to Article
 
 ## Description
 
-This project is translating a mockup to HTML. I was given a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf" target="_blank">mockup</a> of a website and a <a href="https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html" target="_blank">index.html</a>
-file (a copy of the text in it). I recreated it with HTML.
+This project is translating a mock-up to HTML. I was given a [mock-up](https://leiachung41.github.io/prePF/Mockup_to_Article/before/blog-mockup.pdf) of a website and a [index.html](https://leiachung41.github.io/prePF/Mockup_to_Article/before/index_B4.html) file (a copy of the text in it). I recreated it with HTML.
 
 ## Built with
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mockup</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
+For this project, I built a portfolio website. I was given a [design mock-up](https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf) as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
 
 ## Built with
 
@@ -19,5 +19,5 @@ HTML, CSS, Grunt, Responsive web
 ## How to use?
 
   - When you click the logo, it will link the index.html.
-  - It is reponsive website so it can resize and reorganize with the window size.
-  - If you click the title of the featrued works, it will link their work page. 
+  - It is responsive website so it can resize and reorganize with the window size.
+  - If you click the title of the featured works, it will link their work page.

@@ -2,7 +2,7 @@
 
 ## Description
 
-I created tree view UI without Javascript. I just used html and css that featured selector and label.
+I created tree view UI without JavaScript. I just used html and css that featured selector and label.
 
 ## Built with
 
@@ -18,5 +18,5 @@ HTML, CSS
 
 ## How to use?
 
-  - If you clicked text with icon hand paper, it can hide contents and change the icon into hand grab. 
+  - If you clicked text with icon hand paper, it can hide contents and change the icon into hand grab.
   - If you clicked text with icon hand grab, it can show contents and change the icon into hand paper.  

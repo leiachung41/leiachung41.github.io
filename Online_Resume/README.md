@@ -2,12 +2,12 @@
 
 ## Description
 
-I built my resume by writing <a href="https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS" target="_blank">style.css</a> templates to generate my resume.
+I built my resume by writing [resumeBuilder.js](https://leiachung41.github.io/prePF/Online_Resume/before/resumeBuilder_B4.js) JavaScript file that combined my personal information with pre-written [index.html](https://leiachung41.github.io/prePF/Online_Resume/before/index_B4.html) and [style.css](https://leiachung41.github.io/prePF/Online_Resume/before/style_B4.CSS) templates to generate my resume.
 
 ## Features
 
 I used skills that I learned basic JavaScript syntax, which includes manipulating data, building loops and creating functions. At the same time, I used some simple jQuery DOM manipulation methods.
- 
+
 ## Built with
 
 HTML, CSS, JavaScript, jQuery, DOM

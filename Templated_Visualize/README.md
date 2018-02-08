@@ -2,7 +2,7 @@
 
 ## Description
 
-This is pratice on a visualize and responsive site and refered [Templated](https://templated.co/visualize).
+This is practice on a visualize and responsive site and referred [Templated](https://templated.co/visualize).
 
 ## Built with
 
@@ -20,5 +20,3 @@ HTML, CSS, JavaScript, jQuery
 
   - If you click a picture, it is showed larger size.
   - If you resize a window, it will automatically fit the window size.
-
-
