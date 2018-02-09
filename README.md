@@ -109,4 +109,4 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 21. <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Thumbnail/" target="_blank">prePF/Thumbnail/</a>
-- Description: I made thumbnails using css featured border and background-image. I turned this <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">original picture</a> into 4 types of thumbnails.
+- Description: I made thumbnails using css features: border and background-image. I turned this <a href="https://leiachung41.github.io/prePF/Thumbnail/image/giraffe.jpg" target="_blank">original picture</a> into 4 types of thumbnails.
