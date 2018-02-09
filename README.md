@@ -34,7 +34,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 6. <a href="https://leiachung41.github.io/prePF/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Reloadless_Music_App/" target="_blank">prePF/Reloadless_Music_App/</a>
-- Description: I practiced JavaScript skill to work without reload the music app and just partly changing.
+- Description: I practiced JavaScript skills to make a music app that doesn't need to reload the music between pages.
 
 ## 7. <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
