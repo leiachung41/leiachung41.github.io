@@ -94,17 +94,17 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 18. <a href="https://leiachung41.github.io/prePF/Tree_View/index.html" target="_blank">Tree View</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Tree_View/" target="_blank">prePF/Tree_View/</a>
-- Description: I created tree view UI without JavaScript. I just used html and css that featured selector and label.
+- Description: I created tree view UI without JavaScript. I just used html and css features: selector and label.
 
 ## 19. <a href="https://leiachung41.github.io/prePF/Link_Button/index.html" target="_blank">Link Button</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Link_Button/" target="_blank">prePF/Link_Button/</a>
-- Description: I made link button using css featured transform and transition.
+- Description: I made link button using css features: transform and transition.
 
 ## 20. <a href="https://leiachung41.github.io/prePF/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Holy_Grail_Layout/" target="_blank">prePF/Holy_Grail_Layout/</a>
-- Description: This is practice on holy grail layout and I referred <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used CSS featured that float and media query.
+- Description: This is practice on holy grail layout and I referred <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used css features: float and media query.
 
 ## 21. <a href="https://leiachung41.github.io/prePF/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Key Points: **HTML, CSS**
