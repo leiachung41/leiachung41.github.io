@@ -69,7 +69,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 13. <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Key Points: **HTML, JavaScript, BackboneJS, MVC pattern**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
-- Description: This is practice on MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a> site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some featured this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
+- Description: This is practice on MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a> site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some features of this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
 
 ## 14. <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mo.js</a>
 - Key Points: **HTML, JavaScript, Mo.js**
