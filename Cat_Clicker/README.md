@@ -2,11 +2,11 @@
 
 ## Description
 
-This project consists of 5 versions of cat clicker. It is a simple application that when you clicks a cat, counts the cat's clicks. Also, It saves click counts and shows in the application.
+This project consists of 5 versions of cat clicker. It is a simple application that counts the cat's clicks when you clicks a cat. Also, It saves click counts and shows in the application.
 
 ## Features
 
-  - The former 3 versions are I developed it from scratch. I used just simple javascript function to made.
+  - The former 3 versions are I developed it from scratch. I used just simple JavaScript function to made.
   - Then latter 2 premium versions are I used MVO pattern to program.
 
 ## Built with
