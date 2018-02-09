@@ -2,7 +2,7 @@
 
 ## Description
 
-This is practice on a visualize and responsive site and referred [Templated](https://templated.co/visualize).
+This is practice on a responsive site for an image gallery. It refers [Templated](https://templated.co/visualize).
 
 ## Built with
 
