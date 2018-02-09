@@ -2,8 +2,8 @@
 
 ## Description
 
-I made link button using css featured transform and transition.
- 
+I made link button using css features: transform and transition.
+
 ## Built with
 
 HTML, CSS
@@ -18,7 +18,4 @@ HTML, CSS
 
 ## How to use?
 
-  - If you click the button, it seems like clicked movement. 
-
-
-
+  - If you click the button, it seems like clicked movement.

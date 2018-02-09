@@ -2,7 +2,7 @@
 
 ## Description
 
-This is practice on holy grail layout and I referred [In Search of the Holy Grail](http://alistapart.com/article/holygrail). I used CSS featured that float and media query.
+This is practice on holy grail layout and I referred [In Search of the Holy Grail](http://alistapart.com/article/holygrail). I used css features: float and media query.
 
 ## Built with
 
