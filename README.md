@@ -44,7 +44,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 8. <a href="https://leiachung41.github.io/prePF/Parallax/index.html" target="_blank">Parallax</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Parallax/" target="_blank">prePF/Parallax/</a>
-- Description: This is practice on a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I referred <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css featured that background and transform.
+- Description: This is practice on a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I referred <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css features: background and transform.
 
 ## 9. <a href="https://leiachung41.github.io/prePF/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
 - Key Points: **HTML, CSS**
