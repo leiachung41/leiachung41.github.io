@@ -24,7 +24,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 4. <a href="https://leiachung41.github.io/prePF/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
 - Key Points: **HTML, JavaScript, OOJ**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Classic_Arcade_Game_Clone" target="_blank">prePF/Classic_Arcade_Game_Clone/</a>
-- Description: In this project, I built my own arcade game like Frogger Game. I was given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
+- Description: In this project, I built my own arcade game like Frogger Game. I was given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, by using these tools, I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
 ## 5. <a href="https://leiachung41.github.io/FeedReader-Testing/" target="_blank">Feed Reader Testing</a>
 - Key Points: **HTML, JavaScript, jQuery, JasmineJS**
