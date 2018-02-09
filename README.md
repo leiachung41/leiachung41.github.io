@@ -89,7 +89,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 17. <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">My Responsive Blog</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Responsive web**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/My_Responsive_Blog/" target="_blank">prePF/My_Responsive_Blog/</a>
-- Description: This is a responsive blog I developed it as a result of practice like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. I used the picture element for art direction: different image crops are loaded, depending on viewport size.
+- Description: This is a responsive blog I developed as a result of practice like this <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/before/index_B4.html" target="_blank">index.html</a>. I used the picture element for art direction: different image crops are loaded, depending on viewport size.
 
 ## 18. <a href="https://leiachung41.github.io/prePF/Tree_View/index.html" target="_blank">Tree View</a>
 - Key Points: **HTML, CSS**
