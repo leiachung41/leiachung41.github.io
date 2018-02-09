@@ -71,7 +71,7 @@ Hello, these whole projects are maintained by Lea Chung.
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Todo_App/" target="_blank">prePF/Todo_App/</a>
 - Description: This is practice on MVC pattern using this <a href="http://todomvc.com/" target="_blank">TodoMVC</a> site. This is the sample <a href="http://todomvc.com/examples/backbone/" target="_blank">todos</a> site using BackboneJS. I modified some features of this <a href="https://leiachung41.github.io/prePF/Todo_App/before/index.html" target="_blank">basic todo app</a>.  
 
-## 14. <a href="https://leiachung41.github.io/prePF/Mojs/mojs_demo.html" target="_blank">Mo.js</a>
+## 14. <a href="https://leiachung41.github.io/prePF/Mojs/index.html" target="_blank">Mo.js</a>
 - Key Points: **HTML, JavaScript, Mo.js**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mojs/" target="_blank">prePF/Mojs/</a>
 - Description: This is practice on Mo.js that is a JavaScript library devoted to <a href="http://mojs.io/" target="_blank">Motion for the web</a>. It offers a declarative syntax motion and the creation of elements for animation.
