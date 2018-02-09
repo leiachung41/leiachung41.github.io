@@ -64,7 +64,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 12. <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Key Points: **HTML, CSS, Grunt, Responsive web**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Build_a_Portfolio_Site/" target="_blank">prePF/Build_a_Portfolio_Site/</a>
-- Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mock-up</a> as a PDF-file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
+- Description: For this project, I built a portfolio website. I was given a <a href="https://leiachung41.github.io/prePF/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mock-up</a> as a PDF file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
 
 ## 13. <a href="https://leiachung41.github.io/prePF/Todo_App/index.html" target="_blank">Todo App</a>
 - Key Points: **HTML, JavaScript, BackboneJS, MVC pattern**
