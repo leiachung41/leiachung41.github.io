@@ -81,9 +81,9 @@ Hello, these whole projects are maintained by Lea Chung.
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Building_the_Hometown_App/" target="_blank">prePF/Building_the_Hometown_App/</a>
 - Description: This is a responsive web for a Toronto hometown app as a result of practice like this <a href="https://leiachung41.github.io/prePF/Building_the_Hometown_App/before/index_B4.html" target="_blank">index.html</a>. The app consists of top news, latest news, sports and weather sections. I used css media queries feature for responsive web.
 
-## 16. <a href="https://leiachung41.github.io/prePF/Mansonry_Layout/index.html" target="_blank">Masonry Layout</a>
+## 16. <a href="https://leiachung41.github.io/prePF/Masonry_Layout/index.html" target="_blank">Masonry Layout</a>
 - Key Points: **HTML, CSS, Pinterest style layout**
-- GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Mansonry_Layout/" target="_blank">prePF/Masonry_Layout/</a>
+- GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Masonry_Layout/" target="_blank">prePF/Masonry_Layout/</a>
 - Description: This is practice on masonry layout a.k.a. Pinterest style. I referred <a href="https://codepen.io/dudleystorey/full/yqrhw" target="_blank">Pure CSS Pinterest Columnar Layout (by Dudley Storey)</a> and used multi column feature in CSS.
 
 ## 17. <a href="https://leiachung41.github.io/prePF/My_Responsive_Blog/index.html" target="_blank">My Responsive Blog</a>
