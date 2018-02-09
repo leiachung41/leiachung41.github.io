@@ -7,7 +7,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ** If you click a title of each project, you can see the work.
 
 ## 1. <a href="https://leiachung41.github.io/prePF/Neighbourhood_Map/index.html" target="_blank">Neighbourhood Map</a>
-- Key Points: **HTML, CSS, JavaScript, jQuery, KnochoutJS framework, MVVM pattern, Google Maps API, Responsive web**
+- Key Points: **HTML, CSS, JavaScript, jQuery, KnockoutJS framework, MVVM pattern, Google Maps API, Responsive web**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Neighbourhood_Map/" target="_blank">prePF/Neighbourhood_Map/</a>
 - Description: In this project, I developed a single-page application featuring a map of my neighbourhood. I then added functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content.
 
