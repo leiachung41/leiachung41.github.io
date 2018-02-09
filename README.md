@@ -39,7 +39,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 7. <a href="https://leiachung41.github.io/prePF/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
 - GitHub folder: <a href="https://github.com/leiachung41/prePF/tree/master/Templated_Visualize/" target="_blank">prePF/Templated_Visualize/</a>
-- Description: This is practice on a visualize and responsive site and referred <a href="https://templated.co/visualize" target="_blank">Templated</a>.
+- Description: This is practice on a responsive site for an image gallery. It is referred <a href="https://templated.co/visualize" target="_blank">Templated</a>.
 
 ## 8. <a href="https://leiachung41.github.io/prePF/Parallax/index.html" target="_blank">Parallax</a>
 - Key Points: **HTML, CSS**
