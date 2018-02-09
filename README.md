@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Lea's Portfolio</h1>
+<h1 style="text-align: center;">Lea Chung, Front-End Web Developer</h1>
 <h3 style="text-align: right;">leachung41@gmail.com<br>416-876-9367</h3>
 
 Hello, these whole projects are maintained by Lea Chung.
