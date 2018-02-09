@@ -142,16 +142,16 @@ var education = {
             "majors" : [
                 "Computer & Information Communication Eng."
             ],
-            "dates" : "Mar 01, 2006 - Feb 22, 2011"
+            "dates" : "Mar 2006 - Feb 2011"
         },
         {
             "name" : "King George International College",
             "location" : "Toronto, ON",
             "degree" : "Certificate and Diploma",
             "majors" : [
-                "English as a Second Language Program", "Interpreting and Translation - Korean"
+                "Interpreting and Translation - Korean"
             ],
-            "dates" : "May 2014 - Feb 2015"
+            "dates" : "Sep 2014 - Feb 2015"
         }
     ],
     "onlineCourses" : [
