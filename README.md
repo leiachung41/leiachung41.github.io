@@ -1,7 +1,8 @@
+<h1 style="text-align: center; color: red;">Test</h1>
 <h1 style="text-align: center;">Lea Chung, Front-End Web Developer</h1>
 <h3 style="text-align: right;">leachung41@gmail.com<br>416-876-9367</h3>
 
-Hello, these whole projects are maintained by Lea Chung.
+Hello, these whole projects are maintained by Lea Chung(test).
 <br>Some projects were done when I was taking <span style="font-style: italic; font-weight:600;">Udacity: Front-End Web Developer Nanodegree Program</span> and the other projects are practice while I was studying myself with <span style="font-style: italic; font-weight:600;">several online sources</span>.
 
 ** If you click a title of each project, you can see the work.
