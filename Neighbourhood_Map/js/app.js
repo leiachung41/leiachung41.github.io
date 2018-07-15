@@ -116,7 +116,7 @@ var viewModel = function() {
 
     // Make ajax request to foursquare api endpoint.
     $.ajax({
-      url: 'https://api.foursquare.com/v2/venues/',
+      url: 'https://api.foursquare.com/v2/venues/explore/',
       type: 'GET',
       dataType: 'json',
 
