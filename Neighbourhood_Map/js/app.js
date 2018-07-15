@@ -1,10 +1,45 @@
 // Make a data locations in Toronto Neighbourhood.
 var locationList = [
-  {name: 'Yorkdale Shopping Centre', location: {lat: 43.725422, lng: -79.452106}},
-  {name: 'Casa Loma', location: {lat: 43.678066, lng: -79.409426}},
-  {name: 'IKEA Etobicoke', location: {lat:  43.61864, lng: -79.534625}},
-  {name: 'Rooster Coffee House', location: {lat: 43.669105, lng: -79.352863}},
-  {name: 'TIFF Bell Lightbox', location: {lat:  43.646622, lng: -79.390332}}
+  {
+    name: 'Yorkdale Shopping Centre',
+    location: {lat: 43.725422, lng: -79.452106},
+    fsid: '4ad4c062f964a52002f820e3'
+},
+  {
+    name: 'Casa Loma',
+    location: {lat: 43.678066, lng: -79.409426},
+    fsid: '4bef48fcc80dc9284ec827e3'
+},
+  {
+    name: 'High Park',
+    location: {lat:  43.646548, lng: -79.46369},
+    fsid: '4ad4c05ef964a5209ff620e3'
+},
+  {
+    name: 'Rooster Coffee House',
+    location: {lat: 43.669105, lng: -79.352863},
+    fsid: '4b4626fef964a5204a1826e3'
+},
+  {
+    name: 'TIFF Bell Lightbox',
+    location: {lat:  43.646622, lng: -79.390332},
+    fsid: '4bcf714ab221c9b67f0ad2d0'
+},
+  {
+    name: 'Toronto Islands',
+    location: {lat:  43.628947, lng: -79.39442},
+    fsid: '4ad4c05ef964a5209af620e3'
+},
+  {
+    name: 'Pizzeria Libretto',
+    location: {lat:  43.648945, lng: -79.42037},
+    fsid: '4ada6d36f964a520802221e3'
+},
+  {
+    name: 'Ontario Science Centre',
+    location: {lat:  43.716407, lng: -79.339184},
+    fsid: '4ad4c05ef964a520bcf620e3'
+}
 ];
 
 // Make location class and bindings with data.
@@ -20,8 +55,8 @@ var map;
 var initMap = function() {
   //Create a google map object.
   map = new google.maps.Map(document.getElementById('map'),{
-    center: {lat: 43.684037, lng: -79.36474},
-    zoom: 11,
+    center: {lat: 43.706431, lng: -79.398642},
+    zoom: 12,
     styles: styles,
     mapTypeControl: false
   });
@@ -81,7 +116,7 @@ var viewModel = function() {
 
     // Make ajax request to foursquare api endpoint.
     $.ajax({
-      url: 'https://api.foursquare.com/v2/venues/explore',
+      url: 'https://api.foursquare.com/v2/venues/',
       type: 'GET',
       dataType: 'json',
 
