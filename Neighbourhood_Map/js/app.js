@@ -108,11 +108,11 @@ var viewModel = function() {
 
   this.openInfoWindow = function (marker) {
 
-    // Error handling for ajax request.
-    var forsquareRequestTimeOut = setTimeout(function () {
-      infoWindow.setContent("<h4>SORRY. Could not Load. Refresh again, please.</h4>");
-      infoWindow.open(map, marker);
-    },10000); // 10sec
+    // // Error handling for ajax request.
+    // var forsquareRequestTimeOut = setTimeout(function () {
+    //   infoWindow.setContent("<h4>SORRY. Could not Load. Refresh again, please.</h4>");
+    //   infoWindow.open(map, marker);
+    // },10000); // 10sec
 
     // Make ajax request to foursquare api endpoint.
     $.ajax({
