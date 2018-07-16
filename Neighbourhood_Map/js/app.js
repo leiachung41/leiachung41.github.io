@@ -124,7 +124,7 @@ var viewModel = function() {
       data: {
         client_id: '1IWMXUIXTP41LS222SE03WYUA5UV2J5UJ24JOYOYZWGIQRDQ',
         client_secret: 'O0YNHGTZBKPFJK3LLGCIQ3EEZ4LJRWPHUKMQCH4DGQLOXWFK',
-        v: '20170801',
+        v: '20180323',
 
         limit: 1,
         ll: marker.position.lat() + ',' + marker.position.lng(),
@@ -143,7 +143,7 @@ var viewModel = function() {
           '<li class="info-li">Address: ' + results.response.groups[0].items[0].venue.location.address + '</li>' +
           '<li class="info-li">URL: <a class="info-a" href=' + results.response.groups[0].items[0].venue.url + '>' +
           results.response.groups[0].items[0].venue.url + '</a></ul></div>');
-          clearTimeout(forsquareRequestTimeOut);
+          // clearTimeout(forsquareRequestTimeOut);
         },
       error: function () {
         infoWindow.setContent("<h4> SORRY. Could not Load. Refresh again, please.</h4>");
